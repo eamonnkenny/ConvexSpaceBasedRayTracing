@@ -5,9 +5,10 @@
 // Author:                Eamonn M. Kenny
 // Principal Researcher:  Dr. Peter J. Cullen
 // First Modification:    October 2001
-// Last Modification:     Dated Below "Added dd/mm/yy"
+// Last Modification:     May 2020
 // Previous Projects:     Storms, FMW/ARG
 // Current  Project:      IP2000 STIWRO
+// DOI:                   10.1109/TAP.2017.2676726 10.1109/TAP.2018/2814223
 // Software Tool Version: 1.0
 //=========================================================================
 
