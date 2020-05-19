@@ -1,0 +1,2113 @@
+Working directory is defined as: /home/ekenny/eclipse/stiwro-c++/runtime/linux
+Developed in Informatic 2000 Programme Project: STIWRO
+COPYRIGHT (c) 2001-2003 by Trinity College Dublin, Dublin 2, IRELAND.
+All rights reserved
+/home/ekenny/eclipse/stiwro-c++/runtime/linux/../buildings/printinghouse
+/home/ekenny/eclipse/stiwro-c++/runtime/linux/../buildings/printinghouse
+/home/ekenny/eclipse/stiwro-c++/runtime/linux/../buildings/printinghouse
+File: /home/ekenny/eclipse/stiwro-c++/runtime/linux/../buildings/printinghouse.sav exists.
+read total convexs: 122
+File: /home/ekenny/eclipse/stiwro-c++/runtime/linux/../buildings/printinghouse.dat exists.
+Total Convexes remained the same, read from saved file
+read total convexs: 122
+BTS full directory: /home/ekenny/eclipse/stiwro-c++/runtime/linux/../bts/bts2000ph44p.dat
+CBaseTransceiver filename (read): /home/ekenny/eclipse/stiwro-c++/runtime/linux/../bts/bts2000ph44p.dat
+location 5 7 2
+power  Noise Factor (dBm):    7
+  Noise Factor (mW):    5.01187
+  Noise Factor (dBm):    5
+  Noise Factor (mW):    3.16228
+Name: omni
+Maximum Gain: 1
+Num Vertical: 36
+Num Horizontal: 36
+Total points in diagram: 1296
+total number points in capacity grid: 152
+N=        79
+Building bounding box is: 
+ 0 0.75 0
+ 19.011 8.294 2.575
+---------- beginning split ----------
+centre:  7.81495 3.45119 2.4
+xsplit gives: 3
+ysplit gives: 2
+Horizontal Split 2
+capacity of item( 2): 3.4318
+---------- beginning split ----------
+centre:  7.21147 1.74513 2.4
+capacity of item( 1): 1.8896
+centre:  8.55437 5.54156 2.4
+capacity of item( 2): 1.5422
+Number Of Cells:        2
+Actual number required: 2
+Ray-tracing Starting
+Calculating reflection:     0 of  152   0 of  152   0.25 1 2.4
+ 100 of  152   5.25 6 2.4
+
+Ray-tracing Ending
+Time for ray-trace: 0.044488seconds
+
+Ray-tracing Starting
+Calculating reflection:     0 of  152   0 of  152   0.25 1 2.4
+ 100 of  152   5.25 6 2.4
+
+Ray-tracing Ending
+Time for ray-trace: 0.050879seconds
+
+---------------- Starting round 1 ------------------
+ f(x)    iteration location[0]: 123 / 152 met target SIR 
+gradient: 2.44949
+calculate gradient at 6 points
+123 / 152 met target SIR 
+128 / 152 met target SIR 
+139 / 152 met target SIR 
+121 / 152 met target SIR 
+119 / 152 met target SIR 
+142 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0298 > 2 ) 
+
+127 / 152 met target SIR 
+Vsd : 4.47146e-13
+V:   0:0 1:4.47146e-13 2:0 3:0 4:0 5:0
+  iteration f(x+d) gives:  119 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0542 > 2 ) 
+
+  looping over f(x+d) calculated: 136 / 152 met target SIR 
+return because improved: 136 / 152
+gradient: 4.67854e-13
+calculate gradient at 6 points
+136 / 152 met target SIR 
+134 / 152 met target SIR 
+134 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0298 > 2 ) 
+
+139 / 152 met target SIR  capacity exceeded at server: 0 ( 2.1578 > 2 ) 
+
+137 / 152 met target SIR 
+133 / 152 met target SIR  capacity exceeded at server: 0 ( 2.2736 > 2 ) 
+
+134 / 152 met target SIR 
+Vsd : 2.13635e-13
+V:   0:-2.13635e-13 1:0 2:0 3:0 4:0 5:0
+  iteration f(x+d) gives:  145 / 152 met target SIR 
+return because improved: 145 / 152
+gradient: 2.16232e-13
+calculate gradient at 6 points
+147 / 152 met target SIR 
+145 / 152 met target SIR 
+146 / 152 met target SIR 
+145 / 152 met target SIR 
+147 / 152 met target SIR  capacity exceeded at server: 0 ( 2.1456 > 2 ) 
+
+146 / 152 met target SIR 
+145 / 152 met target SIR 
+Vsd : 6.35248e-09
+V:   0:0 1:0 2:0 3:0 4:0 5:-6.35248e-09
+  iteration f(x+d) gives:  0 / 152 met target SIR 
+  looping over f(x+d) calculated: 149 / 152 met target SIR 
+return because improved: 149 / 152
+gradient: 7.24557e-09
+calculate gradient at 6 points
+149 / 152 met target SIR 
+149 / 152 met target SIR 
+147 / 152 met target SIR 
+91 / 152 met target SIR 
+149 / 152 met target SIR  capacity exceeded at server: 1 ( 2.2066 > 2 ) 
+
+145 / 152 met target SIR 
+144 / 152 met target SIR  capacity exceeded at server: 1 ( 2.0664 > 2 ) 
+
+Vsd : 8.14824e-12
+V:   0:-8.14824e-12 1:0 2:0 3:0 4:0 5:0
+  iteration f(x+d) gives:  149 / 152 met target SIR 
+  looping over f(x+d) calculated: 146 / 152 met target SIR  capacity exceeded at server: 0 ( 2.298 > 2 ) 
+
+  looping over f(x+d) calculated: 148 / 152 met target SIR 
+  looping over f(x+d) calculated: 148 / 152 met target SIR 
+  looping over f(x+d) calculated: 148 / 152 met target SIR 
+  looping over f(x+d) calculated: 149 / 152 met target SIR 
+  looping over f(x+d) calculated: 148 / 152 met target SIR 
+  looping over f(x+d) calculated: 150 / 152 met target SIR 
+return because improved: 150 / 152
+gradient: 8.29872e-12
+calculate gradient at 6 points
+150 / 152 met target SIR 
+148 / 152 met target SIR 
+147 / 152 met target SIR 
+148 / 152 met target SIR 
+148 / 152 met target SIR  capacity exceeded at server: 1 ( 2.0542 > 2 ) 
+
+151 / 152 met target SIR 
+150 / 152 met target SIR  capacity exceeded at server: 1 ( 2.2066 > 2 ) 
+
+Vsd : 1.26084e-12
+V:   0:0 1:0 2:0 3:0 4:-1.26084e-12 5:0
+  iteration f(x+d) gives:  88 / 152 met target SIR  capacity exceeded at server: 1 ( 3.0356 > 2 ) 
+
+  looping over f(x+d) calculated: 148 / 152 met target SIR  capacity exceeded at server: 1 ( 2.0664 > 2 ) 
+
+  looping over f(x+d) calculated: 121 / 152 met target SIR  capacity exceeded at server: 0 ( 2.1944 > 2 ) 
+
+  looping over f(x+d) calculated: 69 / 152 met target SIR 
+gradient: 1.44984e-12
+calculate gradient at 6 points
+69 / 152 met target SIR 
+95 / 152 met target SIR  capacity exceeded at server: 0 ( 2.7064 > 2 ) 
+
+55 / 152 met target SIR  capacity exceeded at server: 0 ( 2.5662 > 2 ) 
+
+105 / 152 met target SIR  capacity exceeded at server: 0 ( 2.7064 > 2 ) 
+
+51 / 152 met target SIR  capacity exceeded at server: 0 ( 2.1944 > 2 ) 
+
+144 / 152 met target SIR 
+101 / 152 met target SIR  capacity exceeded at server: 0 ( 2.4504 > 2 ) 
+
+Vsd : 9.31333e-10
+V:   0:0 1:0 2:0 3:0 4:-9.31333e-10 5:0
+  iteration f(x+d) gives:  143 / 152 met target SIR 
+return because improved: 143 / 152
+gradient: 9.31333e-10
+calculate gradient at 6 points
+143 / 152 met target SIR 
+143 / 152 met target SIR 
+144 / 152 met target SIR 
+143 / 152 met target SIR 
+142 / 152 met target SIR 
+147 / 152 met target SIR 
+138 / 152 met target SIR 
+Vsd : 1.28565e-12
+V:   0:0 1:0 2:0 3:0 4:-1.28565e-12 5:0
+  iteration f(x+d) gives:  131 / 152 met target SIR  capacity exceeded at server: 1 ( 2.3468 > 2 ) 
+
+  looping over f(x+d) calculated: 132 / 152 met target SIR  capacity exceeded at server: 1 ( 2.3468 > 2 ) 
+
+  looping over f(x+d) calculated: 142 / 152 met target SIR 
+  looping over f(x+d) calculated: 143 / 152 met target SIR 
+  looping over f(x+d) calculated: 143 / 152 met target SIR 
+  looping over f(x+d) calculated: 141 / 152 met target SIR 
+  looping over f(x+d) calculated: 142 / 152 met target SIR 
+  looping over f(x+d) calculated: 143 / 152 met target SIR 
+  looping over f(x+d) calculated: 144 / 152 met target SIR 
+return because improved: 144 / 152
+gradient: 1.2951e-12
+calculate gradient at 6 points
+144 / 152 met target SIR 
+142 / 152 met target SIR 
+145 / 152 met target SIR 
+144 / 152 met target SIR 
+143 / 152 met target SIR 
+149 / 152 met target SIR  capacity exceeded at server: 1 ( 2.1944 > 2 ) 
+
+143 / 152 met target SIR 
+Vsd : 3.46986e-13
+V:   0:0 1:3.46986e-13 2:0 3:0 4:0 5:0
+  iteration f(x+d) gives:  131 / 152 met target SIR 
+  looping over f(x+d) calculated: 143 / 152 met target SIR 
+  looping over f(x+d) calculated: 141 / 152 met target SIR 
+  looping over f(x+d) calculated: 145 / 152 met target SIR 
+return because improved: 145 / 152
+gradient: 3.6792e-13
+calculate gradient at 6 points
+145 / 152 met target SIR 
+146 / 152 met target SIR 
+145 / 152 met target SIR 
+146 / 152 met target SIR 
+143 / 152 met target SIR 
+144 / 152 met target SIR  capacity exceeded at server: 1 ( 2.8954 > 2 ) 
+
+143 / 152 met target SIR 
+Vsd : 1.84877e-11
+V:   0:0 1:-1.84877e-11 2:0 3:0 4:0 5:0
+  iteration f(x+d) gives:  144 / 152 met target SIR 
+  looping over f(x+d) calculated: 145 / 152 met target SIR 
+  looping over f(x+d) calculated: 144 / 152 met target SIR 
+  looping over f(x+d) calculated: 145 / 152 met target SIR 
+  looping over f(x+d) calculated: 144 / 152 met target SIR 
+  looping over f(x+d) calculated: 145 / 152 met target SIR 
+  looping over f(x+d) calculated: 146 / 152 met target SIR 
+return because improved: 146 / 152
+gradient: 1.84955e-11
+calculate gradient at 6 points
+146 / 152 met target SIR 
+146 / 152 met target SIR 
+144 / 152 met target SIR 
+144 / 152 met target SIR 
+143 / 152 met target SIR 
+110 / 152 met target SIR 
+141 / 152 met target SIR 
+Vsd : 1.87288e-12
+V:   0:0 1:0 2:-1.87288e-12 3:0 4:0 5:0
+  iteration f(x+d) gives:  141 / 152 met target SIR 
+  looping over f(x+d) calculated: 143 / 152 met target SIR 
+  looping over f(x+d) calculated: 145 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0176 > 2 ) 
+
+  looping over f(x+d) calculated: 145 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0176 > 2 ) 
+
+  looping over f(x+d) calculated: 143 / 152 met target SIR 
+  looping over f(x+d) calculated: 142 / 152 met target SIR 
+  looping over f(x+d) calculated: 146 / 152 met target SIR 
+  looping over f(x+d) calculated: 146 / 152 met target SIR 
+  looping over f(x+d) calculated: 145 / 152 met target SIR 
+  looping over f(x+d) calculated: 145 / 152 met target SIR 
+  looping over f(x+d) calculated: 146 / 152 met target SIR 
+  looping over f(x+d) calculated: 146 / 152 met target SIR 
+  looping over f(x+d) calculated: 146 / 152 met target SIR 
+returned since looping too much
+gradient: 2.1583e-12
+calculate gradient at 6 points
+146 / 152 met target SIR 
+143 / 152 met target SIR 
+146 / 152 met target SIR 
+146 / 152 met target SIR 
+145 / 152 met target SIR 
+90 / 152 met target SIR 
+144 / 152 met target SIR 
+Vsd : 4.09468e-12
+V:   0:0 1:0 2:0 3:0 4:4.09468e-12 5:0
+  iteration f(x+d) gives:  150 / 152 met target SIR 
+return because improved: 150 / 152
+gradient: 4.12181e-12
+calculate gradient at 6 points
+150 / 152 met target SIR 
+151 / 152 met target SIR 
+150 / 152 met target SIR 
+150 / 152 met target SIR 
+151 / 152 met target SIR 
+152 / 152 met target SIR 
+150 / 152 met target SIR 
+Vsd : 2.53648e-10
+V:   0:0 1:0 2:2.53648e-10 3:0 4:0 5:0
+  iteration f(x+d) gives:  141 / 152 met target SIR 
+  looping over f(x+d) calculated: 151 / 152 met target SIR 
+met 99.3421% of total SIR
+151 / 152
+met 99.3421% of total SIR
+151 / 152
+calculating exact number Of constraints: 
+152 / 152 met target SIR 
+Initial value of positions is: 
+  1.19409
+  2.53609
+  2.47281
+  8.55437
+  7.53871
+  2.025
+creating Convex Optimisation constraint matrix
+Target not met at index: 28
+
+Convex matrix gives: 151 / 152 met target SIR
+printed bestserver 
+Error: number of constraints is not equal to actual amount
+l= 151   numberOfConstraints= 152
+Initial value of Powers is: 
+  6.13959e-05
+  5.66213e-05
+Starting Steepest Descent Convex Optimisation of powers: 
+increasing t: 0.0001
+increasing t: 0.0005
+increasing t: 0.0025
+increasing t: 0.0125
+increasing t: 0.0625
+increasing t: 0.3125
+increasing t: 1.5625
+increasing t: 7.8125
+increasing t: 39.0625
+increasing t: 195.312
+increasing t: 976.562
+increasing t: 4882.81
+increasing t: 24414.1
+increasing t: 122070
+increasing t: 610352
+increasing t: 3.05176e+06
+increasing t: 1.52588e+07
+increasing t: 7.62939e+07
+increasing t: 3.8147e+08
+increasing t: 1.90735e+09
+increasing t: 9.53674e+09
+increasing t: 4.76837e+10
+increasing t: 2.38419e+11
+increasing t: 1.19209e+12
+increasing t: 5.96046e+12
+increasing t: 2.98023e+13
+increasing t: 1.49012e+14
+increasing t: 7.45058e+14
+increasing t: 3.72529e+15
+increasing t: 1.86265e+16
+increasing t: 9.31323e+16
+increasing t: 4.65661e+17
+increasing t: 2.32831e+18
+increasing t: 1.16415e+19
+increasing t: 5.82077e+19
+increasing t: 2.91038e+20
+increasing t: 1.45519e+21
+increasing t: 7.27596e+21
+Stopping Criteria for Convex Optimisation met
+end result:  nan
+end result:  5.66213e-05
+recalculating SIR on whole region to see it hasn't decreased
+0 / 152 met target SIR  capacity exceeded at server: 0 ( 3.4318 > 2 ) 
+
+151 / 152 met target SIR 
+---------------- Starting round 2 ------------------
+ f(x)    iteration location[0]: used gaussian random variable
+mean gauss value: R: 0.0156662 0 
+mean numer value: R: 0.0931394 0 
+110 / 152 met target SIR 
+gradient: 2.44949
+calculate gradient at 6 points
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0296866 0 
+mean numer value: R: 0.330365 0 
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0556695 0 
+mean numer value: R: 0.372855 0 
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0197963 0 
+mean numer value: R: 0.19451 0 
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0403515 0 
+mean numer value: R: 0.309219 0 
+used gaussian random variable
+mean gauss value: R: 0.0156662 0 
+mean numer value: R: 0.0868263 0 
+used gaussian random variable
+mean gauss value: R: 0.0393255 0 
+mean numer value: R: 0.30205 0 
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0281328 0 
+mean numer value: R: 0.214523 0 
+109 / 152 met target SIR 
+90 / 152 met target SIR  capacity exceeded at server: 0 ( 2.487 > 2 ) 
+
+Vsd : 1.26902e-14
+V:   0:0 1:0 2:0 3:0 4:-1.26902e-14 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0578416 0 
+mean numer value: R: 0.626006 0 
+used gaussian random variable
+mean gauss value: R: 0.302569 0 
+mean numer value: R: 2.98693 0 
+used gaussian random variable
+mean gauss value: R: 0.0312318 0 
+mean numer value: R: 0.262424 0 
+used gaussian random variable
+mean gauss value: R: 0.0156662 0 
+mean numer value: R: 0.0873688 0 
+95 / 152 met target SIR  capacity exceeded at server: 1 ( 2.0786 > 2 ) 
+
+  looping over f(x+d) calculated: 130 / 152 met target SIR  capacity exceeded at server: 1 ( 2.5784 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0146132 0 
+mean numer value: R: 0.113459 0 
+used gaussian random variable
+mean gauss value: R: 0.0499395 0 
+mean numer value: R: 0.486707 0 
+133 / 152 met target SIR  capacity exceeded at server: 1 ( 2.4504 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0458591 0 
+mean numer value: R: 0.521227 0 
+129 / 152 met target SIR  capacity exceeded at server: 1 ( 2.7186 > 2 ) 
+
+  looping over f(x+d) calculated: 110 / 152 met target SIR 
+gradient: 1.47379e-14
+calculate gradient at 6 points
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0202624 0 
+mean numer value: R: 0.228178 0 
+used gaussian random variable
+mean gauss value: R: 0.0199328 0 
+mean numer value: R: 0.172408 0 
+used gaussian random variable
+mean gauss value: R: 0.0147217 0 
+mean numer value: R: 0.0921583 0 
+used gaussian random variable
+mean gauss value: R: 0.0148703 0 
+mean numer value: R: 0.0989129 0 
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0145375 0 
+mean numer value: R: 0.0926433 0 
+used gaussian random variable
+mean gauss value: R: 0.0137625 0 
+mean numer value: R: 0.091545 0 
+109 / 152 met target SIR 
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0263912 0 
+mean numer value: R: 0.198325 0 
+used gaussian random variable
+mean gauss value: R: 0.0156662 0 
+mean numer value: R: 0.0907789 0 
+109 / 152 met target SIR 
+110 / 152 met target SIR 
+112 / 152 met target SIR 
+Vsd : 2.8938e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:2.8938e-13
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0156662 0 
+mean numer value: R: 0.0987643 0 
+106 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0664 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0226343 0 
+mean numer value: R: 0.308985 0 
+used gaussian random variable
+mean gauss value: R: 0.0211253 0 
+mean numer value: R: 0.230601 0 
+90 / 152 met target SIR  capacity exceeded at server: 0 ( 2.487 > 2 ) 
+
+  looping over f(x+d) calculated: 107 / 152 met target SIR 
+gradient: 2.96882e-13
+calculate gradient at 6 points
+107 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0167327 0 
+mean numer value: R: 0.148224 0 
+used gaussian random variable
+mean gauss value: R: 0.0154883 0 
+mean numer value: R: 0.0969252 0 
+used gaussian random variable
+mean gauss value: R: 0.0147084 0 
+mean numer value: R: 0.0907659 0 
+107 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0296474 0 
+mean numer value: R: 0.211365 0 
+106 / 152 met target SIR 
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0156662 0 
+mean numer value: R: 0.0982117 0 
+107 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0318332 0 
+mean numer value: R: 0.201304 0 
+used gaussian random variable
+mean gauss value: R: 0.0450033 0 
+mean numer value: R: 0.433283 0 
+106 / 152 met target SIR 
+106 / 152 met target SIR 
+Vsd : 7.29252e-13
+V:   0:0 1:0 2:-7.29252e-13 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0265565 0 
+mean numer value: R: 0.166971 0 
+138 / 152 met target SIR  capacity exceeded at server: 0 ( 3.0234 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0433844 0 
+mean numer value: R: 0.288936 0 
+used gaussian random variable
+mean gauss value: R: 0.015315 0 
+mean numer value: R: 0.0853157 0 
+used gaussian random variable
+mean gauss value: R: 0.0158696 0 
+mean numer value: R: 0.0808277 0 
+91 / 152 met target SIR  capacity exceeded at server: 0 ( 2.3468 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00784927 0 
+mean numer value: R: 0.0580358 0 
+used gaussian random variable
+mean gauss value: R: 0.0190158 0 
+mean numer value: R: 0.158731 0 
+used gaussian random variable
+mean gauss value: R: 0.0161039 0 
+mean numer value: R: 0.091675 0 
+97 / 152 met target SIR  capacity exceeded at server: 0 ( 2.4748 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00753573 0 
+mean numer value: R: 0.0479196 0 
+used gaussian random variable
+mean gauss value: R: 0.0160016 0 
+mean numer value: R: 0.122587 0 
+96 / 152 met target SIR  capacity exceeded at server: 0 ( 2.4748 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0164984 0 
+mean numer value: R: 0.116925 0 
+105 / 152 met target SIR 
+  looping over f(x+d) calculated: 106 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0156742 0 
+mean numer value: R: 0.086081 0 
+105 / 152 met target SIR 
+gradient: 7.3016e-13
+calculate gradient at 6 points
+105 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0295093 0 
+mean numer value: R: 0.330325 0 
+107 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0246357 0 
+mean numer value: R: 0.35575 0 
+108 / 152 met target SIR 
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00728516 0 
+mean numer value: R: 0.0374526 0 
+used gaussian random variable
+mean gauss value: R: 0.0156742 0 
+mean numer value: R: 0.0941944 0 
+106 / 152 met target SIR 
+105 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0111702 0 
+mean numer value: R: 0.0588956 0 
+used gaussian random variable
+mean gauss value: R: 0.044901 0 
+mean numer value: R: 0.429083 0 
+used gaussian random variable
+mean gauss value: R: 0.0211482 0 
+mean numer value: R: 0.216159 0 
+94 / 152 met target SIR  capacity exceeded at server: 0 ( 2.615 > 2 ) 
+
+Vsd : 1.04559e-13
+V:   0:0 1:0 2:-1.04559e-13 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0265617 0 
+mean numer value: R: 0.182065 0 
+138 / 152 met target SIR  capacity exceeded at server: 0 ( 3.0234 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0207994 0 
+mean numer value: R: 0.188374 0 
+used gaussian random variable
+mean gauss value: R: 0.0153089 0 
+mean numer value: R: 0.094792 0 
+used gaussian random variable
+mean gauss value: R: 0.0158624 0 
+mean numer value: R: 0.0854451 0 
+92 / 152 met target SIR  capacity exceeded at server: 0 ( 2.231 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00786747 0 
+mean numer value: R: 0.0597136 0 
+used gaussian random variable
+mean gauss value: R: 0.0147264 0 
+mean numer value: R: 0.100345 0 
+used gaussian random variable
+mean gauss value: R: 0.0161007 0 
+mean numer value: R: 0.0872845 0 
+used gaussian random variable
+mean gauss value: R: 0.0149351 0 
+mean numer value: R: 0.136489 0 
+used gaussian random variable
+mean gauss value: R: 0.016356 0 
+mean numer value: R: 0.0888461 0 
+97 / 152 met target SIR  capacity exceeded at server: 0 ( 2.487 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00754166 0 
+mean numer value: R: 0.047254 0 
+used gaussian random variable
+mean gauss value: R: 0.0159829 0 
+mean numer value: R: 0.133572 0 
+98 / 152 met target SIR  capacity exceeded at server: 0 ( 2.6028 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00306994 0 
+mean numer value: R: 0.0176119 0 
+105 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0161734 0 
+mean numer value: R: 0.0977959 0 
+105 / 152 met target SIR 
+  looping over f(x+d) calculated: 106 / 152 met target SIR 
+return because improved: 106 / 152
+gradient: 1.35071e-13
+calculate gradient at 6 points
+106 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.01493 0 
+mean numer value: R: 0.0792685 0 
+106 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0290452 0 
+mean numer value: R: 0.175056 0 
+used gaussian random variable
+mean gauss value: R: 0.0143594 0 
+mean numer value: R: 0.100642 0 
+106 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0156729 0 
+mean numer value: R: 0.0903353 0 
+106 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0336286 0 
+mean numer value: R: 0.298579 0 
+used gaussian random variable
+mean gauss value: R: 0.0390187 0 
+mean numer value: R: 0.330935 0 
+106 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0208916 0 
+mean numer value: R: 0.19356 0 
+103 / 152 met target SIR 
+105 / 152 met target SIR 
+Vsd : 1.93277e-13
+V:   0:0 1:0 2:-1.93277e-13 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0298059 0 
+mean numer value: R: 0.214578 0 
+used gaussian random variable
+mean gauss value: R: 0.0265669 0 
+mean numer value: R: 0.185071 0 
+138 / 152 met target SIR  capacity exceeded at server: 0 ( 3.0234 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0160473 0 
+mean numer value: R: 0.0921307 0 
+91 / 152 met target SIR  capacity exceeded at server: 0 ( 2.231 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0157126 0 
+mean numer value: R: 0.0927004 0 
+used gaussian random variable
+mean gauss value: R: 0.0150416 0 
+mean numer value: R: 0.140941 0 
+used gaussian random variable
+mean gauss value: R: 0.0163814 0 
+mean numer value: R: 0.0909372 0 
+97 / 152 met target SIR  capacity exceeded at server: 0 ( 2.615 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0076344 0 
+mean numer value: R: 0.0490175 0 
+used gaussian random variable
+mean gauss value: R: 0.0159826 0 
+mean numer value: R: 0.138033 0 
+97 / 152 met target SIR  capacity exceeded at server: 0 ( 2.487 > 2 ) 
+
+  looping over f(x+d) calculated: 97 / 152 met target SIR  capacity exceeded at server: 0 ( 2.3468 > 2 ) 
+
+  looping over f(x+d) calculated: 105 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.016174 0 
+mean numer value: R: 0.0947015 0 
+105 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0161929 0 
+mean numer value: R: 0.0911522 0 
+106 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0232764 0 
+mean numer value: R: 0.147652 0 
+106 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0231917 0 
+mean numer value: R: 0.138553 0 
+106 / 152 met target SIR 
+  looping over f(x+d) calculated: 106 / 152 met target SIR 
+  looping over f(x+d) calculated: 106 / 152 met target SIR 
+returned since looping too much
+gradient: 1.97501e-13
+calculate gradient at 6 points
+106 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0142391 0 
+mean numer value: R: 0.118576 0 
+used gaussian random variable
+mean gauss value: R: 0.014866 0 
+mean numer value: R: 0.0950959 0 
+105 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0151503 0 
+mean numer value: R: 0.104212 0 
+106 / 152 met target SIR 
+105 / 152 met target SIR 
+106 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0318332 0 
+mean numer value: R: 0.190504 0 
+used gaussian random variable
+mean gauss value: R: 0.0450033 0 
+mean numer value: R: 0.438008 0 
+105 / 152 met target SIR 
+106 / 152 met target SIR 
+Vsd : 2.2225e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:-2.2225e-14
+  iteration f(x+d) gives:  106 / 152 met target SIR  capacity exceeded at server: 1 ( 2.7308 > 2 ) 
+
+  looping over f(x+d) calculated: 111 / 152 met target SIR 
+gradient: 3.19772e-14
+calculate gradient at 6 points
+111 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00728868 0 
+mean numer value: R: 0.0485227 0 
+112 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0238693 0 
+mean numer value: R: 0.352861 0 
+111 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0176 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0161238 0 
+mean numer value: R: 0.097452 0 
+111 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00192852 0 
+mean numer value: R: 0.013333 0 
+110 / 152 met target SIR 
+111 / 152 met target SIR 
+108 / 152 met target SIR 
+Vsd : 4.29995e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:-4.29995e-14
+  iteration f(x+d) gives:  106 / 152 met target SIR  capacity exceeded at server: 1 ( 2.871 > 2 ) 
+
+  looping over f(x+d) calculated: 109 / 152 met target SIR 
+  looping over f(x+d) calculated: 109 / 152 met target SIR 
+gradient: 5.30657e-14
+calculate gradient at 6 points
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0149301 0 
+mean numer value: R: 0.0904312 0 
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0290423 0 
+mean numer value: R: 0.194369 0 
+used gaussian random variable
+mean gauss value: R: 0.0143603 0 
+mean numer value: R: 0.0991976 0 
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0156733 0 
+mean numer value: R: 0.104408 0 
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0382901 0 
+mean numer value: R: 0.253063 0 
+used gaussian random variable
+mean gauss value: R: 0.0201746 0 
+mean numer value: R: 0.184346 0 
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00337239 0 
+mean numer value: R: 0.0142272 0 
+used gaussian random variable
+mean gauss value: R: 0.0442551 0 
+mean numer value: R: 0.682414 0 
+108 / 152 met target SIR 
+109 / 152 met target SIR 
+Vsd : 1.63017e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:1.63017e-14
+  iteration f(x+d) gives:  95 / 152 met target SIR  capacity exceeded at server: 0 ( 2.615 > 2 ) 
+
+  looping over f(x+d) calculated: 109 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0337986 0 
+mean numer value: R: 0.346407 0 
+108 / 152 met target SIR 
+  looping over f(x+d) calculated: 108 / 152 met target SIR 
+gradient: 2.1724e-14
+calculate gradient at 6 points
+108 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0142391 0 
+mean numer value: R: 0.110263 0 
+used gaussian random variable
+mean gauss value: R: 0.014866 0 
+mean numer value: R: 0.0953544 0 
+108 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0151503 0 
+mean numer value: R: 0.103036 0 
+108 / 152 met target SIR 
+110 / 152 met target SIR 
+107 / 152 met target SIR 
+107 / 152 met target SIR 
+108 / 152 met target SIR 
+Vsd : 2.5376e-13
+V:   0:0 1:0 2:-2.5376e-13 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0298063 0 
+mean numer value: R: 0.199635 0 
+used gaussian random variable
+mean gauss value: R: 0.0265671 0 
+mean numer value: R: 0.188565 0 
+95 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0210915 0 
+mean numer value: R: 0.166324 0 
+used gaussian random variable
+mean gauss value: R: 0.0160471 0 
+mean numer value: R: 0.0879304 0 
+108 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0157125 0 
+mean numer value: R: 0.092129 0 
+used gaussian random variable
+mean gauss value: R: 0.0150455 0 
+mean numer value: R: 0.122593 0 
+used gaussian random variable
+mean gauss value: R: 0.0163819 0 
+mean numer value: R: 0.0944602 0 
+110 / 152 met target SIR  capacity exceeded at server: 0 ( 2.1456 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0076346 0 
+mean numer value: R: 0.0454893 0 
+used gaussian random variable
+mean gauss value: R: 0.0159828 0 
+mean numer value: R: 0.128128 0 
+110 / 152 met target SIR 
+return because improved: 110 / 152
+gradient: 2.82421e-13
+calculate gradient at 6 points
+110 / 152 met target SIR 
+112 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0054 > 2 ) 
+
+111 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0054 > 2 ) 
+
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0076346 0 
+mean numer value: R: 0.0489539 0 
+used gaussian random variable
+mean gauss value: R: 0.0159828 0 
+mean numer value: R: 0.120592 0 
+used gaussian random variable
+mean gauss value: R: 0.049205 0 
+mean numer value: R: 0.438831 0 
+used gaussian random variable
+mean gauss value: R: 0.0491634 0 
+mean numer value: R: 0.469893 0 
+106 / 152 met target SIR 
+111 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0338664 0 
+mean numer value: R: 0.366611 0 
+110 / 152 met target SIR 
+Vsd : 2.60347e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:-2.60347e-14
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0076346 0 
+mean numer value: R: 0.0460428 0 
+used gaussian random variable
+mean gauss value: R: 0.0159828 0 
+mean numer value: R: 0.127601 0 
+99 / 152 met target SIR  capacity exceeded at server: 1 ( 2.7308 > 2 ) 
+
+  looping over f(x+d) calculated: 108 / 152 met target SIR 
+  looping over f(x+d) calculated: 109 / 152 met target SIR 
+gradient: 3.14043e-14
+calculate gradient at 6 points
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0199233 0 
+mean numer value: R: 0.179154 0 
+used gaussian random variable
+mean gauss value: R: 0.0138625 0 
+mean numer value: R: 0.0972653 0 
+109 / 152 met target SIR 
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00753709 0 
+mean numer value: R: 0.0488261 0 
+used gaussian random variable
+mean gauss value: R: 0.0159953 0 
+mean numer value: R: 0.137615 0 
+used gaussian random variable
+mean gauss value: R: 0.0182512 0 
+mean numer value: R: 0.11512 0 
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0076346 0 
+mean numer value: R: 0.0461903 0 
+used gaussian random variable
+mean gauss value: R: 0.0159828 0 
+mean numer value: R: 0.133334 0 
+used gaussian random variable
+mean gauss value: R: 0.0453415 0 
+mean numer value: R: 0.337589 0 
+108 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00318296 0 
+mean numer value: R: 0.0129297 0 
+108 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0332055 0 
+mean numer value: R: 0.340315 0 
+109 / 152 met target SIR 
+Vsd : 8.95887e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:-8.95887e-14
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0076346 0 
+mean numer value: R: 0.0510427 0 
+used gaussian random variable
+mean gauss value: R: 0.0159828 0 
+mean numer value: R: 0.131376 0 
+99 / 152 met target SIR  capacity exceeded at server: 1 ( 2.7308 > 2 ) 
+
+  looping over f(x+d) calculated: 106 / 152 met target SIR  capacity exceeded at server: 1 ( 2.3468 > 2 ) 
+
+  looping over f(x+d) calculated: 110 / 152 met target SIR 
+return because improved: 110 / 152
+gradient: 9.20184e-14
+calculate gradient at 6 points
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0173273 0 
+mean numer value: R: 0.128434 0 
+used gaussian random variable
+mean gauss value: R: 0.0145051 0 
+mean numer value: R: 0.115047 0 
+144 / 152 met target SIR  capacity exceeded at server: 0 ( 3.1392 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0410512 0 
+mean numer value: R: 0.601701 0 
+108 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.007543 0 
+mean numer value: R: 0.046228 0 
+used gaussian random variable
+mean gauss value: R: 0.0159815 0 
+mean numer value: R: 0.133979 0 
+111 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0076346 0 
+mean numer value: R: 0.0475211 0 
+used gaussian random variable
+mean gauss value: R: 0.0159828 0 
+mean numer value: R: 0.122979 0 
+109 / 152 met target SIR 
+110 / 152 met target SIR 
+108 / 152 met target SIR 
+Vsd : 1.36162e-13
+V:   0:0 1:0 2:1.36162e-13 3:0 4:0 5:0
+  iteration f(x+d) gives:  107 / 152 met target SIR  capacity exceeded at server: 0 ( 2.1944 > 2 ) 
+
+  looping over f(x+d) calculated: 111 / 152 met target SIR 
+return because improved: 111 / 152
+gradient: 1.79188e-13
+calculate gradient at 6 points
+111 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0298693 0 
+mean numer value: R: 0.261025 0 
+113 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0558461 0 
+mean numer value: R: 0.370421 0 
+used gaussian random variable
+mean gauss value: R: 0.018673 0 
+mean numer value: R: 0.121957 0 
+used gaussian random variable
+mean gauss value: R: 0.014238 0 
+mean numer value: R: 0.0935591 0 
+109 / 152 met target SIR 
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0584727 0 
+mean numer value: R: 0.43266 0 
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0162444 0 
+mean numer value: R: 0.103167 0 
+112 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0362787 0 
+mean numer value: R: 0.270624 0 
+108 / 152 met target SIR 
+Vsd : 7.54066e-14
+V:   0:0 1:0 2:-7.54066e-14 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0265539 0 
+mean numer value: R: 0.175974 0 
+87 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0156881 0 
+mean numer value: R: 0.0904178 0 
+90 / 152 met target SIR  capacity exceeded at server: 1 ( 2.5906 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00784158 0 
+mean numer value: R: 0.0597186 0 
+used gaussian random variable
+mean gauss value: R: 0.0189632 0 
+mean numer value: R: 0.170362 0 
+used gaussian random variable
+mean gauss value: R: 0.0161055 0 
+mean numer value: R: 0.0972936 0 
+107 / 152 met target SIR  capacity exceeded at server: 1 ( 2.0786 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00753283 0 
+mean numer value: R: 0.0495084 0 
+used gaussian random variable
+mean gauss value: R: 0.0160196 0 
+mean numer value: R: 0.116254 0 
+used gaussian random variable
+mean gauss value: R: 0.0184213 0 
+mean numer value: R: 0.130478 0 
+used gaussian random variable
+mean gauss value: R: 0.0152557 0 
+mean numer value: R: 0.0964704 0 
+112 / 152 met target SIR 
+return because improved: 112 / 152
+gradient: 7.67187e-14
+calculate gradient at 6 points
+112 / 152 met target SIR 
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0288328 0 
+mean numer value: R: 0.270332 0 
+used gaussian random variable
+mean gauss value: R: 0.0214061 0 
+mean numer value: R: 0.174628 0 
+used gaussian random variable
+mean gauss value: R: 0.0145842 0 
+mean numer value: R: 0.106976 0 
+112 / 152 met target SIR 
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00753283 0 
+mean numer value: R: 0.0474695 0 
+used gaussian random variable
+mean gauss value: R: 0.0391474 0 
+mean numer value: R: 0.260586 0 
+used gaussian random variable
+mean gauss value: R: 0.0160196 0 
+mean numer value: R: 0.135116 0 
+used gaussian random variable
+mean gauss value: R: 0.0184213 0 
+mean numer value: R: 0.112534 0 
+used gaussian random variable
+mean gauss value: R: 0.0152557 0 
+mean numer value: R: 0.0916886 0 
+112 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0349154 0 
+mean numer value: R: 0.168864 0 
+111 / 152 met target SIR 
+109 / 152 met target SIR 
+Vsd : 3.91588e-14
+V:   0:-3.91588e-14 1:0 2:0 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.00429766 0 
+mean numer value: R: 0.0204241 0 
+133 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0176 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0123017 0 
+mean numer value: R: 0.0821227 0 
+113 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0176 > 2 ) 
+
+  looping over f(x+d) calculated: 112 / 152 met target SIR 
+  looping over f(x+d) calculated: 110 / 152 met target SIR 
+  looping over f(x+d) calculated: 110 / 152 met target SIR 
+  looping over f(x+d) calculated: 115 / 152 met target SIR 
+return because improved: 115 / 152
+gradient: 4.7393e-14
+calculate gradient at 6 points
+115 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0257626 0 
+mean numer value: R: 0.192505 0 
+used gaussian random variable
+mean gauss value: R: 0.0250112 0 
+mean numer value: R: 0.23457 0 
+used gaussian random variable
+mean gauss value: R: 0.0124273 0 
+mean numer value: R: 0.0845176 0 
+116 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.012599 0 
+mean numer value: R: 0.108878 0 
+115 / 152 met target SIR 
+116 / 152 met target SIR 
+114 / 152 met target SIR 
+115 / 152 met target SIR 
+113 / 152 met target SIR 
+Vsd : 7.93054e-14
+V:   0:0 1:-7.93054e-14 2:0 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.00915122 0 
+mean numer value: R: 0.0575074 0 
+used gaussian random variable
+mean gauss value: R: 0.0125965 0 
+mean numer value: R: 0.0885704 0 
+108 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0236479 0 
+mean numer value: R: 0.208274 0 
+110 / 152 met target SIR 
+  looping over f(x+d) calculated: 110 / 152 met target SIR 
+gradient: 1.13125e-13
+calculate gradient at 6 points
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0077451 0 
+mean numer value: R: 0.0515973 0 
+used gaussian random variable
+mean gauss value: R: 0.0184597 0 
+mean numer value: R: 0.114044 0 
+111 / 152 met target SIR 
+111 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0146326 0 
+mean numer value: R: 0.111644 0 
+112 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0584727 0 
+mean numer value: R: 0.417876 0 
+109 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0162444 0 
+mean numer value: R: 0.102717 0 
+111 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0362787 0 
+mean numer value: R: 0.274695 0 
+107 / 152 met target SIR 
+Vsd : 5.54595e-14
+V:   0:0 1:0 2:5.54595e-14 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0190689 0 
+mean numer value: R: 0.101562 0 
+109 / 152 met target SIR  capacity exceeded at server: 0 ( 2.3102 > 2 ) 
+
+  looping over f(x+d) calculated: 111 / 152 met target SIR 
+return because improved: 111 / 152
+gradient: 6.21818e-14
+calculate gradient at 6 points
+111 / 152 met target SIR 
+113 / 152 met target SIR  capacity exceeded at server: 0 ( 2.042 > 2 ) 
+
+112 / 152 met target SIR  capacity exceeded at server: 0 ( 2.042 > 2 ) 
+
+110 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0391474 0 
+mean numer value: R: 0.26622 0 
+111 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0349154 0 
+mean numer value: R: 0.16293 0 
+111 / 152 met target SIR 
+109 / 152 met target SIR 
+Vsd : 1.27809e-13
+V:   0:0 1:0 2:1.27809e-13 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0392141 0 
+mean numer value: R: 0.296513 0 
+110 / 152 met target SIR  capacity exceeded at server: 0 ( 2.3102 > 2 ) 
+
+  looping over f(x+d) calculated: 109 / 152 met target SIR  capacity exceeded at server: 0 ( 2.3102 > 2 ) 
+
+  looping over f(x+d) calculated: 111 / 152 met target SIR  capacity exceeded at server: 0 ( 2.042 > 2 ) 
+
+  looping over f(x+d) calculated: 111 / 152 met target SIR 
+gradient: 1.30503e-13
+calculate gradient at 6 points
+111 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00325546 0 
+mean numer value: R: 0.0190819 0 
+111 / 152 met target SIR 
+112 / 152 met target SIR 
+111 / 152 met target SIR 
+111 / 152 met target SIR 
+111 / 152 met target SIR 
+111 / 152 met target SIR 
+Vsd : 5.30266e-14
+V:   0:0 1:5.30266e-14 2:0 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0287317 0 
+mean numer value: R: 0.187256 0 
+102 / 152 met target SIR 
+  looping over f(x+d) calculated: 110 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0054 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0357608 0 
+mean numer value: R: 0.282449 0 
+used gaussian random variable
+mean gauss value: R: 0.0201785 0 
+mean numer value: R: 0.142268 0 
+109 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0355945 0 
+mean numer value: R: 0.309974 0 
+used gaussian random variable
+mean gauss value: R: 0.0321157 0 
+mean numer value: R: 0.38013 0 
+used gaussian random variable
+mean gauss value: R: 0.0120441 0 
+mean numer value: R: 0.110744 0 
+115 / 152 met target SIR 
+return because improved: 115 / 152
+gradient: 7.29666e-14
+calculate gradient at 6 points
+115 / 152 met target SIR 
+116 / 152 met target SIR 
+116 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0775117 0 
+mean numer value: R: 0.609946 0 
+used gaussian random variable
+mean gauss value: R: 0.0244792 0 
+mean numer value: R: 0.238674 0 
+used gaussian random variable
+mean gauss value: R: 0.016013 0 
+mean numer value: R: 0.122746 0 
+used gaussian random variable
+mean gauss value: R: 0.00648152 0 
+mean numer value: R: 0.09193 0 
+used gaussian random variable
+mean gauss value: R: 0.00506893 0 
+mean numer value: R: 0.029798 0 
+used gaussian random variable
+mean gauss value: R: 0.0234859 0 
+mean numer value: R: 0.192733 0 
+used gaussian random variable
+mean gauss value: R: 0.0206362 0 
+mean numer value: R: 0.161644 0 
+used gaussian random variable
+mean gauss value: R: 0.0200619 0 
+mean numer value: R: 0.136427 0 
+111 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0355945 0 
+mean numer value: R: 0.300498 0 
+used gaussian random variable
+mean gauss value: R: 0.0321157 0 
+mean numer value: R: 0.39264 0 
+used gaussian random variable
+mean gauss value: R: 0.0584727 0 
+mean numer value: R: 0.46154 0 
+used gaussian random variable
+mean gauss value: R: 0.0120441 0 
+mean numer value: R: 0.111255 0 
+113 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0162444 0 
+mean numer value: R: 0.0963118 0 
+113 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0362787 0 
+mean numer value: R: 0.296918 0 
+111 / 152 met target SIR 
+Vsd : 7.86043e-14
+V:   0:0 1:0 2:-7.86043e-14 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0216059 0 
+mean numer value: R: 0.227373 0 
+91 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00859349 0 
+mean numer value: R: 0.079926 0 
+89 / 152 met target SIR  capacity exceeded at server: 1 ( 2.4504 > 2 ) 
+
+  looping over f(x+d) calculated: 115 / 152 met target SIR 
+  looping over f(x+d) calculated: 116 / 152 met target SIR 
+return because improved: 116 / 152
+gradient: 8.23443e-14
+calculate gradient at 6 points
+116 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.016139 0 
+mean numer value: R: 0.135891 0 
+116 / 152 met target SIR 
+116 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0620816 0 
+mean numer value: R: 0.609972 0 
+used gaussian random variable
+mean gauss value: R: 0.0332785 0 
+mean numer value: R: 0.406211 0 
+114 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0391474 0 
+mean numer value: R: 0.237116 0 
+115 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0349154 0 
+mean numer value: R: 0.171251 0 
+116 / 152 met target SIR 
+113 / 152 met target SIR 
+Vsd : 2.2183e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:-2.2183e-14
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0324154 0 
+mean numer value: R: 0.27571 0 
+99 / 152 met target SIR  capacity exceeded at server: 1 ( 2.743 > 2 ) 
+
+  looping over f(x+d) calculated: 118 / 152 met target SIR  capacity exceeded at server: 1 ( 2.615 > 2 ) 
+
+  looping over f(x+d) calculated: 118 / 152 met target SIR  capacity exceeded at server: 1 ( 2.231 > 2 ) 
+
+  looping over f(x+d) calculated: 115 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0271125 0 
+mean numer value: R: 0.278426 0 
+115 / 152 met target SIR 
+gradient: 3.2484e-14
+calculate gradient at 6 points
+115 / 152 met target SIR 
+115 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00779191 0 
+mean numer value: R: 0.0491994 0 
+used gaussian random variable
+mean gauss value: R: 0.00536761 0 
+mean numer value: R: 0.0301105 0 
+used gaussian random variable
+mean gauss value: R: 0.0131703 0 
+mean numer value: R: 0.0913185 0 
+used gaussian random variable
+mean gauss value: R: 0.0235304 0 
+mean numer value: R: 0.199139 0 
+115 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0334132 0 
+mean numer value: R: 0.347639 0 
+115 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0381565 0 
+mean numer value: R: 0.278069 0 
+115 / 152 met target SIR 
+115 / 152 met target SIR 
+115 / 152 met target SIR 
+Vsd : 2.21985e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:-2.21985e-14
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0384517 0 
+mean numer value: R: 0.304014 0 
+99 / 152 met target SIR  capacity exceeded at server: 1 ( 2.743 > 2 ) 
+
+  looping over f(x+d) calculated: 118 / 152 met target SIR  capacity exceeded at server: 1 ( 2.743 > 2 ) 
+
+  looping over f(x+d) calculated: 118 / 152 met target SIR  capacity exceeded at server: 1 ( 2.231 > 2 ) 
+
+  looping over f(x+d) calculated: 116 / 152 met target SIR  capacity exceeded at server: 1 ( 2.103 > 2 ) 
+
+  looping over f(x+d) calculated: 115 / 152 met target SIR 
+  looping over f(x+d) calculated: 115 / 152 met target SIR 
+  looping over f(x+d) calculated: 115 / 152 met target SIR 
+gradient: 2.6331e-14
+calculate gradient at 6 points
+115 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.023036 0 
+mean numer value: R: 0.180573 0 
+114 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.017058 0 
+mean numer value: R: 0.127094 0 
+used gaussian random variable
+mean gauss value: R: 0.00378005 0 
+mean numer value: R: 0.0253627 0 
+115 / 152 met target SIR  capacity exceeded at server: 0 ( 2.1334 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0193647 0 
+mean numer value: R: 0.254606 0 
+used gaussian random variable
+mean gauss value: R: 0.0170604 0 
+mean numer value: R: 0.139161 0 
+117 / 152 met target SIR 
+115 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0128762 0 
+mean numer value: R: 0.0880999 0 
+116 / 152 met target SIR 
+113 / 152 met target SIR 
+Vsd : 4.32343e-14
+V:   0:4.32343e-14 1:0 2:0 3:0 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0196221 0 
+mean numer value: R: 0.0858134 0 
+148 / 152 met target SIR  capacity exceeded at server: 0 ( 2.3102 > 2 ) 
+
+  looping over f(x+d) calculated: 138 / 152 met target SIR 
+return because improved: 138 / 152
+gradient: 4.59936e-14
+calculate gradient at 6 points
+138 / 152 met target SIR 
+140 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0542 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.00777841 0 
+mean numer value: R: 0.0687153 0 
+140 / 152 met target SIR  capacity exceeded at server: 0 ( 2.1822 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0376566 0 
+mean numer value: R: 0.315798 0 
+used gaussian random variable
+mean gauss value: R: 0.0122125 0 
+mean numer value: R: 0.117119 0 
+140 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0664 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0434755 0 
+mean numer value: R: 0.224392 0 
+used gaussian random variable
+mean gauss value: R: 0.0193078 0 
+mean numer value: R: 0.171813 0 
+used gaussian random variable
+mean gauss value: R: 0.0203552 0 
+mean numer value: R: 0.175961 0 
+138 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0353433 0 
+mean numer value: R: 0.166996 0 
+used gaussian random variable
+mean gauss value: R: 0.036958 0 
+mean numer value: R: 0.289151 0 
+138 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0418886 0 
+mean numer value: R: 0.291109 0 
+138 / 152 met target SIR 
+Vsd : 1.76083e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:1.76083e-13
+  iteration f(x+d) gives:  139 / 152 met target SIR 
+return because improved: 139 / 152
+gradient: 1.85051e-13
+calculate gradient at 6 points
+139 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00272034 0 
+mean numer value: R: 0.0171131 0 
+used gaussian random variable
+mean gauss value: R: 0.0783073 0 
+mean numer value: R: 0.844548 0 
+139 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00618572 0 
+mean numer value: R: 0.0742111 0 
+used gaussian random variable
+mean gauss value: R: 0.00325586 0 
+mean numer value: R: 0.0282738 0 
+141 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00413095 0 
+mean numer value: R: 0.0264288 0 
+used gaussian random variable
+mean gauss value: R: 0.0225906 0 
+mean numer value: R: 0.137889 0 
+used gaussian random variable
+mean gauss value: R: 0.0202144 0 
+mean numer value: R: 0.130997 0 
+used gaussian random variable
+mean gauss value: R: 0.00525077 0 
+mean numer value: R: 0.0345022 0 
+used gaussian random variable
+mean gauss value: R: 0.00978189 0 
+mean numer value: R: 0.0747998 0 
+141 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0289147 0 
+mean numer value: R: 0.211614 0 
+140 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0447534 0 
+mean numer value: R: 0.421367 0 
+139 / 152 met target SIR 
+139 / 152 met target SIR 
+Vsd : 2.84552e-11
+V:   0:0 1:0 2:0 3:2.84552e-11 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.00682752 0 
+mean numer value: R: 0.0400798 0 
+used gaussian random variable
+mean gauss value: R: 0.014854 0 
+mean numer value: R: 0.095435 0 
+132 / 152 met target SIR  capacity exceeded at server: 1 ( 2.8588 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0102588 0 
+mean numer value: R: 0.0599656 0 
+used gaussian random variable
+mean gauss value: R: 0.187341 0 
+mean numer value: R: 1.50613 0 
+103 / 152 met target SIR  capacity exceeded at server: 1 ( 2.1944 > 2 ) 
+
+  looping over f(x+d) calculated: 141 / 152 met target SIR 
+return because improved: 141 / 152
+gradient: 2.85293e-11
+calculate gradient at 6 points
+141 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00196625 0 
+mean numer value: R: 0.013095 0 
+145 / 152 met target SIR  capacity exceeded at server: 0 ( 2.3102 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0311691 0 
+mean numer value: R: 0.330261 0 
+143 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0664 > 2 ) 
+
+143 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0334523 0 
+mean numer value: R: 0.24268 0 
+used gaussian random variable
+mean gauss value: R: 0.0286598 0 
+mean numer value: R: 0.29471 0 
+141 / 152 met target SIR 
+141 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0664 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0325968 0 
+mean numer value: R: 0.249083 0 
+141 / 152 met target SIR 
+Vsd : 2.64692e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:2.64692e-13
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0148418 0 
+mean numer value: R: 0.0565008 0 
+139 / 152 met target SIR 
+gradient: 3.48775e-13
+calculate gradient at 6 points
+139 / 152 met target SIR 
+141 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00777841 0 
+mean numer value: R: 0.0686597 0 
+141 / 152 met target SIR  capacity exceeded at server: 0 ( 2.042 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0376566 0 
+mean numer value: R: 0.323875 0 
+used gaussian random variable
+mean gauss value: R: 0.0122125 0 
+mean numer value: R: 0.120355 0 
+141 / 152 met target SIR 
+139 / 152 met target SIR 
+139 / 152 met target SIR 
+139 / 152 met target SIR 
+Vsd : 1.14768e-13
+V:   0:0 1:0 2:0 3:-1.14768e-13 4:0 5:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0250296 0 
+mean numer value: R: 0.156501 0 
+147 / 152 met target SIR 
+return because improved: 147 / 152
+gradient: 2.00409e-13
+calculate gradient at 6 points
+147 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00272034 0 
+mean numer value: R: 0.017049 0 
+used gaussian random variable
+mean gauss value: R: 0.0783073 0 
+mean numer value: R: 0.823634 0 
+147 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00618572 0 
+mean numer value: R: 0.0751024 0 
+used gaussian random variable
+mean gauss value: R: 0.00325586 0 
+mean numer value: R: 0.0285811 0 
+147 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0786 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.00413095 0 
+mean numer value: R: 0.031008 0 
+used gaussian random variable
+mean gauss value: R: 0.0225906 0 
+mean numer value: R: 0.149711 0 
+used gaussian random variable
+mean gauss value: R: 0.0202144 0 
+mean numer value: R: 0.127857 0 
+used gaussian random variable
+mean gauss value: R: 0.00525077 0 
+mean numer value: R: 0.0333961 0 
+used gaussian random variable
+mean gauss value: R: 0.00978189 0 
+mean numer value: R: 0.069577 0 
+118 / 152 met target SIR  capacity exceeded at server: 1 ( 3.3038 > 2 ) 
+
+147 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0167901 0 
+mean numer value: R: 0.121117 0 
+used gaussian random variable
+mean gauss value: R: 0.0196772 0 
+mean numer value: R: 0.101246 0 
+146 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0147348 0 
+mean numer value: R: 0.113182 0 
+148 / 152 met target SIR 
+Vsd : 5.62164e-13
+V:   0:0 1:0 2:0 3:-5.62164e-13 4:0 5:0
+  iteration f(x+d) gives:  137 / 152 met target SIR  capacity exceeded at server: 0 ( 2.2188 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0145178 0 
+mean numer value: R: 0.11268 0 
+137 / 152 met target SIR  capacity exceeded at server: 0 ( 2.2188 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.107904 0 
+mean numer value: R: 0.888433 0 
+141 / 152 met target SIR  capacity exceeded at server: 0 ( 2.231 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0811088 0 
+mean numer value: R: 0.668444 0 
+used gaussian random variable
+mean gauss value: R: 0.0168452 0 
+mean numer value: R: 0.170865 0 
+145 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0908 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0153353 0 
+mean numer value: R: 0.118403 0 
+145 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0908 > 2 ) 
+
+  looping over f(x+d) calculated: 147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0166824 0 
+mean numer value: R: 0.0859849 0 
+147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00620432 0 
+mean numer value: R: 0.037853 0 
+used gaussian random variable
+mean gauss value: R: 0.0212439 0 
+mean numer value: R: 0.102718 0 
+147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0168485 0 
+mean numer value: R: 0.115679 0 
+146 / 152 met target SIR 
+  looping over f(x+d) calculated: 147 / 152 met target SIR 
+gradient: 6.9823e-13
+calculate gradient at 6 points
+147 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00196625 0 
+mean numer value: R: 0.0133204 0 
+148 / 152 met target SIR  capacity exceeded at server: 0 ( 2.6028 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0311691 0 
+mean numer value: R: 0.329232 0 
+118 / 152 met target SIR  capacity exceeded at server: 1 ( 3.1758 > 2 ) 
+
+147 / 152 met target SIR  capacity exceeded at server: 0 ( 2.231 > 2 ) 
+
+147 / 152 met target SIR 
+113 / 152 met target SIR  capacity exceeded at server: 1 ( 3.1514 > 2 ) 
+
+Warning: No receiver in building:  1.78589 5.43269 2.62827
+no fields in one of the sectorized antennas
+no fields in one of the sectorized antennas
+0 / 152 met target SIR  capacity exceeded at server: 0 ( 3.4318 > 2 ) 
+
+Vsd : 1.03191e-13
+V:   0:0 1:0 2:0 3:-1.03191e-13 4:0 5:0
+  iteration f(x+d) gives:  138 / 152 met target SIR  capacity exceeded at server: 0 ( 2.3468 > 2 ) 
+
+  looping over f(x+d) calculated: 137 / 152 met target SIR  capacity exceeded at server: 0 ( 2.2188 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0220058 0 
+mean numer value: R: 0.136419 0 
+150 / 152 met target SIR  capacity exceeded at server: 1 ( 2.0054 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0195658 0 
+mean numer value: R: 0.0915114 0 
+used gaussian random variable
+mean gauss value: R: 0.00374303 0 
+mean numer value: R: 0.0209434 0 
+used gaussian random variable
+mean gauss value: R: 0.0183782 0 
+mean numer value: R: 0.141134 0 
+145 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0908 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0153179 0 
+mean numer value: R: 0.108085 0 
+used gaussian random variable
+mean gauss value: R: 0.0148617 0 
+mean numer value: R: 0.100394 0 
+used gaussian random variable
+mean gauss value: R: 0.0182243 0 
+mean numer value: R: 0.0852651 0 
+146 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0908 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00549771 0 
+mean numer value: R: 0.062688 0 
+147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0164503 0 
+mean numer value: R: 0.128244 0 
+used gaussian random variable
+mean gauss value: R: 0.0157479 0 
+mean numer value: R: 0.0841204 0 
+147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0193336 0 
+mean numer value: R: 0.138406 0 
+147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0364062 0 
+mean numer value: R: 0.196026 0 
+146 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0168484 0 
+mean numer value: R: 0.126105 0 
+146 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0213254 0 
+mean numer value: R: 0.106613 0 
+147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0151147 0 
+mean numer value: R: 0.103953 0 
+147 / 152 met target SIR 
+returned since looping too much
+gradient: 1.03191e-13
+calculate gradient at 6 points
+147 / 152 met target SIR 
+147 / 152 met target SIR  capacity exceeded at server: 0 ( 2.2066 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.00777841 0 
+mean numer value: R: 0.0719506 0 
+146 / 152 met target SIR  capacity exceeded at server: 0 ( 2.2066 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.001554 0 
+mean numer value: R: 0.0124075 0 
+used gaussian random variable
+mean gauss value: R: 0.0376566 0 
+mean numer value: R: 0.336011 0 
+used gaussian random variable
+mean gauss value: R: 0.0122125 0 
+mean numer value: R: 0.123162 0 
+150 / 152 met target SIR  capacity exceeded at server: 0 ( 2.7674 > 2 ) 
+
+146 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.100272 0 
+mean numer value: R: 0.766464 0 
+146 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0155544 0 
+mean numer value: R: 0.111137 0 
+used gaussian random variable
+mean gauss value: R: 0.0214173 0 
+mean numer value: R: 0.114893 0 
+147 / 152 met target SIR 
+Vsd : 3.86749e-13
+V:   0:0 1:0 2:0 3:-3.86749e-13 4:0 5:0
+  iteration f(x+d) gives:  138 / 152 met target SIR  capacity exceeded at server: 0 ( 2.3468 > 2 ) 
+
+  looping over f(x+d) calculated: 137 / 152 met target SIR  capacity exceeded at server: 0 ( 2.2188 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0218743 0 
+mean numer value: R: 0.130836 0 
+used gaussian random variable
+mean gauss value: R: 0.0551239 0 
+mean numer value: R: 0.502796 0 
+150 / 152 met target SIR  capacity exceeded at server: 1 ( 2.0054 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00376781 0 
+mean numer value: R: 0.0217228 0 
+used gaussian random variable
+mean gauss value: R: 0.0627441 0 
+mean numer value: R: 0.719986 0 
+146 / 152 met target SIR  capacity exceeded at server: 0 ( 2.2188 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0183443 0 
+mean numer value: R: 0.0869731 0 
+used gaussian random variable
+mean gauss value: R: 0.0179025 0 
+mean numer value: R: 0.0889488 0 
+146 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0215023 0 
+mean numer value: R: 0.118606 0 
+147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0142551 0 
+mean numer value: R: 0.0914618 0 
+147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0192897 0 
+mean numer value: R: 0.136192 0 
+used gaussian random variable
+mean gauss value: R: 0.0246858 0 
+mean numer value: R: 0.142501 0 
+used gaussian random variable
+mean gauss value: R: 0.0137799 0 
+mean numer value: R: 0.118529 0 
+147 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0786 > 2 ) 
+
+  looping over f(x+d) calculated: 147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0228487 0 
+mean numer value: R: 0.135372 0 
+used gaussian random variable
+mean gauss value: R: 0.0168267 0 
+mean numer value: R: 0.119655 0 
+147 / 152 met target SIR 
+gradient: 5.41549e-13
+calculate gradient at 6 points
+147 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00272034 0 
+mean numer value: R: 0.0166435 0 
+used gaussian random variable
+mean gauss value: R: 0.0783073 0 
+mean numer value: R: 0.8145 0 
+147 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00618572 0 
+mean numer value: R: 0.0686265 0 
+used gaussian random variable
+mean gauss value: R: 0.00325586 0 
+mean numer value: R: 0.0284815 0 
+146 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0786 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.00413095 0 
+mean numer value: R: 0.0295202 0 
+used gaussian random variable
+mean gauss value: R: 0.0225906 0 
+mean numer value: R: 0.115494 0 
+used gaussian random variable
+mean gauss value: R: 0.0202144 0 
+mean numer value: R: 0.140766 0 
+used gaussian random variable
+mean gauss value: R: 0.00525077 0 
+mean numer value: R: 0.0332267 0 
+used gaussian random variable
+mean gauss value: R: 0.00978189 0 
+mean numer value: R: 0.0705092 0 
+116 / 152 met target SIR  capacity exceeded at server: 1 ( 3.3038 > 2 ) 
+
+147 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0128756 0 
+mean numer value: R: 0.055824 0 
+used gaussian random variable
+mean gauss value: R: 0.016982 0 
+mean numer value: R: 0.108686 0 
+147 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0224216 0 
+mean numer value: R: 0.133279 0 
+146 / 152 met target SIR 
+Vsd : 9.76324e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:-9.76324e-13
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0207053 0 
+mean numer value: R: 0.204506 0 
+125 / 152 met target SIR 
+  looping over f(x+d) calculated: 138 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0166574 0 
+mean numer value: R: 0.11205 0 
+used gaussian random variable
+mean gauss value: R: 0.0107955 0 
+mean numer value: R: 0.0763189 0 
+used gaussian random variable
+mean gauss value: R: 0.00664291 0 
+mean numer value: R: 0.0516885 0 
+147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0109631 0 
+mean numer value: R: 0.0621617 0 
+used gaussian random variable
+mean gauss value: R: 0.0136238 0 
+mean numer value: R: 0.0939637 0 
+145 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0180001 0 
+mean numer value: R: 0.110795 0 
+147 / 152 met target SIR 
+  looping over f(x+d) calculated: 147 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0165846 0 
+mean numer value: R: 0.110078 0 
+120 / 152 met target SIR  capacity exceeded at server: 1 ( 3.2916 > 2 ) 
+
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.023038 0 
+mean numer value: R: 0.133269 0 
+used gaussian random variable
+mean gauss value: R: 0.00739305 0 
+mean numer value: R: 0.0455748 0 
+146 / 152 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0229622 0 
+mean numer value: R: 0.134545 0 
+147 / 152 met target SIR 
+gradient: 1.35443e-12
+calculate gradient at 6 points
+147 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00196625 0 
+mean numer value: R: 0.0123056 0 
+148 / 152 met target SIR  capacity exceeded at server: 0 ( 2.4626 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0311691 0 
+mean numer value: R: 0.323769 0 
+125 / 152 met target SIR  capacity exceeded at server: 1 ( 3.1758 > 2 ) 
+
+123 / 152 met target SIR  capacity exceeded at server: 1 ( 3.1636 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0191202 0 
+mean numer value: R: 0.132326 0 
+used gaussian random variable
+mean gauss value: R: 0.021722 0 
+mean numer value: R: 0.186826 0 
+used gaussian random variable
+mean gauss value: R: 0.0177176 0 
+mean numer value: R: 0.108545 0 
+148 / 152 met target SIR  capacity exceeded at server: 0 ( 2.0786 > 2 ) 
+
+116 / 152 met target SIR  capacity exceeded at server: 1 ( 3.1636 > 2 ) 
+
+Warning: No receiver in building:  1.78226 5.43269 2.62484
+no fields in one of the sectorized antennas
+no fields in one of the sectorized antennas
+0 / 152 met target SIR  capacity exceeded at server: 0 ( 3.4318 > 2 ) 
+
+Vsd : 0
+calculate gradient at 6 points
+132 / 152 met target SIR  capacity exceeded at server: 0 ( 3.4318 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0349615 0 
+mean numer value: R: 0.343818 0 
+used gaussian random variable
+mean gauss value: R: 0.0204977 0 
+mean numer value: R: 0.170972 0 
+used gaussian random variable
+mean gauss value: R: 0.00316675 0 
+mean numer value: R: 0.0220973 0 
+used gaussian random variable
+mean gauss value: R: 0.00612763 0 
+mean numer value: R: 0.0588321 0 
+132 / 152 met target SIR  capacity exceeded at server: 0 ( 3.4318 > 2 ) 
+
+132 / 152 met target SIR  capacity exceeded at server: 0 ( 3.4318 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.018897 0 
+mean numer value: R: 0.142841 0 
+137 / 152 met target SIR  capacity exceeded at server: 0 ( 3.4318 > 2 ) 
+
+used gaussian random variable
+mean gauss value: R: 0.0160491 0 
+mean numer value: R: 0.113358 0 
+147 / 152 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0165336 0 
+mean numer value: R: 0.0784326 0 
+146 / 152 met target SIR 
+Warning: No receiver in building:  1.78226 5.43269 2.69984
+no fields in one of the sectorized antennas
+no fields in one of the sectorized antennas
+0 / 152 met target SIR  capacity exceeded at server: 0 ( 3.4318 > 2 ) 
+
+V:   0:0 1:0 2:0 3:0 4:-5.37915e-14 5:0
+  iteration f(x+d) gives:  151 / 152 met target SIR 
+met 99.3421% of total SIR
+151 / 152
+met 99.3421% of total SIR
+151 / 152
+calculating exact number Of constraints: 
+151 / 152 met target SIR 
+Initial value of positions is: 
+  12.0184
+  1.73712
+  2.33967
+  1.78226
+  3.78144
+  2.54984
+creating Convex Optimisation constraint matrix
+Target not met at index: 99
+
+Convex matrix gives: 151 / 152 met target SIR
+printed bestserver 
+Initial value of Powers is: 
+  1.68964e-06
+  3.74974e-08
+Starting Steepest Descent Convex Optimisation of powers: 
+increasing t: 0.0001
+increasing t: 0.0005
+increasing t: 0.0025
+increasing t: 0.0125
+increasing t: 0.0625
+increasing t: 0.3125
+increasing t: 1.5625
+increasing t: 7.8125
+increasing t: 39.0625
+increasing t: 195.312
+increasing t: 976.562
+increasing t: 4882.81
+increasing t: 24414.1
+increasing t: 122070
+increasing t: 610352
+increasing t: 3.05176e+06
+increasing t: 1.52588e+07
+increasing t: 7.62939e+07
+increasing t: 3.8147e+08
+increasing t: 1.90735e+09
+increasing t: 9.53674e+09
+increasing t: 4.76837e+10
+increasing t: 2.38419e+11
+increasing t: 1.19209e+12
+increasing t: 5.96046e+12
+increasing t: 2.98023e+13
+increasing t: 1.49012e+14
+increasing t: 7.45058e+14
+increasing t: 3.72529e+15
+increasing t: 1.86265e+16
+increasing t: 9.31323e+16
+increasing t: 4.65661e+17
+increasing t: 2.32831e+18
+increasing t: 1.16415e+19
+increasing t: 5.82077e+19
+increasing t: 2.91038e+20
+increasing t: 1.45519e+21
+increasing t: 7.27596e+21
+Stopping Criteria for Convex Optimisation met
+end result:  1.23046e-06
+end result:  3.74974e-08
+recalculating SIR on whole region to see it hasn't decreased
+152 / 152 met target SIR 
+151 / 152 met target SIR 
+----------------- Ending round 2 -------------------
+Time for full computation: 34579.8seconds
+
+Original centres at gravity centres
+ 12.0184 1.73712 2.33967
+ 1.78226 3.78144 2.54984
+centres are as follows for order 1 Reflection
+1.19409  2.53609  2.47281
+8.55437  7.53871  2.025
+centres are as follows for order 2 Reflection
+12.0184  1.73712  2.33967
+1.78226  3.78144  2.54984
+
+real	576m18.707s
+user	574m44.264s
+sys	1m35.572s

@@ -1,0 +1,20 @@
+semi-infinite
+001
+Fictitous
+Location (-2.0,0.0,1.0)
+Power 0.01
+FrequencyBand [700.0-700.0]
+Orientation <0,0>
+Cost 0
+numberOfChannels 1
+NoiseFactorAtBTS 7.0
+NoiseFactorAtRx  5.0
+Reflections    4
+Transmissions  5
+Diffractions   0
+HertzianDipole 1
+RandomWalk     0
+CornerDiffract 0
+capacity 2.0
+omni.diag
+polar.dat

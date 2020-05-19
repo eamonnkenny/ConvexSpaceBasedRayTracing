@@ -1,0 +1,12 @@
+subplot(2,2,1);
+aspect3d('story1.txt','story1.txta','story1.txtb');
+view(0,90);
+subplot(2,2,2);
+aspect3d('story1.txt','story1.txta','story1.txtb');
+view(-90,0);
+subplot(2,2,3);
+aspect3d('story1.txt','story1.txta','story1.txtb');
+view(0,0);
+subplot(2,2,4);
+aspect3d('story1.txt','story1.txta','story1.txtb');
+view(30,30);

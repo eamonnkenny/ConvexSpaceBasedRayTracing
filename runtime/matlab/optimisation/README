@@ -1,0 +1,19 @@
+Matlab files
+------------
+
+Input Data Creators (capacity.txt)
+----------------------------------
+
+capacitygrid  - creates 3 areas of large to low signal strength for optimisation simulations
+capacitygrid2 - creates 5 areas of large to low signal strength for optimisation simulations
+
+
+Optimisation Simulation runners
+-------------------------------
+optimise - runs all the necessary steps to run the simulation and to produce all associated plots
+
+
+Dependency programs
+-------------------
+
+cellsize - called by the bestserver*.m files to obtain the capacity files

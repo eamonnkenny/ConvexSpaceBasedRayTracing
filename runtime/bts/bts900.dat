@@ -1,0 +1,20 @@
+BTS
+001
+Fictitous
+Location (5.0,7.0,1.0)
+Power 1
+FrequencyBand [900.0-900.0]
+Orientation <0,0>
+Cost 0
+numberOfChannels 1
+NoiseFactorAtBTS 7.0
+NoiseFactorAtRx  5.0
+Reflections    3
+Transmissions  4
+Diffractions   1
+HertzianDipole 1
+RandomWalk     0
+CornerDiffract 0
+capacity 2.0
+omni.diag
+polar.dat

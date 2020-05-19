@@ -1,0 +1,6 @@
+2015-08-04  Eamonn Kenny <Eamonn.Kenny@scss.tcd.ie>
+
+* change all fstream.h to fstream
+* change all iostream.h to iostream
+* remove process.h includes
+* include namespace for std into userconst.hh 

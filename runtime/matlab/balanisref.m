@@ -1,0 +1,66 @@
+r1 = load('r256.txt');
+r2 = load('r4.txt');
+r3 = load('r9.txt');
+r4 = load('r16.txt');
+r5 = load('r25.txt');
+r6 = load('r81.txt');
+
+t1 = load('t256.txt');
+t2 = load('t4.txt');
+t3 = load('t9.txt');
+t4 = load('t16.txt');
+t5 = load('t25.txt');
+t6 = load('t81.txt');
+
+figure(1);
+hold;
+plot( r1(:,1), r1(:,3), 'r-' );
+plot( r2(:,1), r2(:,3), 'g-' );
+plot( r3(:,1), r3(:,3), 'b-' );
+plot( r4(:,1), r4(:,3), 'm-' );
+plot( r5(:,1), r5(:,3), 'c-' );
+plot( r6(:,1), r6(:,3), 'y-' );
+xlabel('Angles \theta_i');
+ylabel('R_\perp');
+title('Reflection Coefficients R_\perp' );
+legend('\epsilon_r=2.56','\epsilon_r=4','\epsilon_r=9','\epsilon_r=16','\epsilon_r=25', '\epsilon_r=81' );
+
+figure(2);
+hold;
+plot( r1(:,1), r1(:,2), 'r-' );
+plot( r2(:,1), r2(:,2), 'g-' );
+plot( r3(:,1), r3(:,2), 'b-' );
+plot( r4(:,1), r4(:,2), 'm-' );
+plot( r5(:,1), r5(:,2), 'c-' );
+plot( r6(:,1), r6(:,2), 'y-' );
+xlabel('Angles \theta_i');
+ylabel('R_{||}');
+title('Reflection Coefficients R_{||}' );
+legend('\epsilon_r=2.56','\epsilon_r=4','\epsilon_r=9','\epsilon_r=16','\epsilon_r=25', '\epsilon_r=81' );
+
+figure(3);
+hold;
+plot( t1(:,1), t1(:,3), 'r-' );
+plot( t2(:,1), t2(:,3), 'g-' );
+plot( t3(:,1), t3(:,3), 'b-' );
+plot( t4(:,1), t4(:,3), 'm-' );
+plot( t5(:,1), t5(:,3), 'c-' );
+plot( t6(:,1), t6(:,3), 'y-' );
+xlabel('Angles \theta_i');
+ylabel('T_\perp');
+title('Transmission Coefficients T_\perp' );
+legend('\epsilon_r=2.56','\epsilon_r=4','\epsilon_r=9','\epsilon_r=16','\epsilon_r=25', '\epsilon_r=81' );
+
+figure(4);
+hold;
+plot( t1(:,1), t1(:,2), 'r-' );
+plot( t2(:,1), t2(:,2), 'g-' );
+plot( t3(:,1), t3(:,2), 'b-' );
+plot( t4(:,1), t4(:,2), 'm-' );
+plot( t5(:,1), t5(:,2), 'c-' );
+plot( t6(:,1), t6(:,2), 'y-' );
+xlabel('Angles \theta_i');
+ylabel('T_{||}');
+title('Transmission Coefficients T_{||}' );
+legend('\epsilon_r=2.56','\epsilon_r=4','\epsilon_r=9','\epsilon_r=16','\epsilon_r=25', '\epsilon_r=81' );
+hold;

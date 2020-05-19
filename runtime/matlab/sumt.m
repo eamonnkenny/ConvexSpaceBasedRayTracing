@@ -1,0 +1,18 @@
+s = load( 'sumt.txt' );
+plot( s(:,1), s(:,2), 'b:');
+axis( [-1 7 -1 7] );
+hold;
+plot( s(:,1), s(:,2), 'ro');
+x = (-1:1:7);
+y1 = 12 - 6 * x;
+y2 = 8 - 3 * x;
+y3 = 4 - 2 * x / 3;
+plot( x, y1, x, y2, x, y3, x, 0*x, 0*x, x, x, 5*ones(9,1), 5*ones(9,1), x );
+xlabel( 'x-axis' );
+ylabel( 'y-axis' );
+title( 'SUMT solution of LP: 180x+160y with 7 constraints' );
+str1(1)={'Start Point x^{(0)}'};
+text(3.0,5.2,str1);
+str2(1)={'Optimal Point x^*'};
+text(1.5,3.6,str2);
+hold;

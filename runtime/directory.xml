@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<directories>
+  <baseDirectory>runtime</baseDirectory>
+  <transceivers>bts</transceivers>
+  <diagrams>bts</diagrams>
+  <buildings>buildings</buildings>
+  <windowsExecutables>dos</windowsExecutables>
+  <linuxExecutables>linux</linuxExecutables>
+  <matlabFiles>matlab</matlabFiles>
+  <matlabBuildings>matlab/building-data</matlabBuildings>
+  <matlabCoverageMaps>matlab/coverage</matlabCoverageMaps>
+  <matlabRayPaths>matlab/raytrace</matlabRayPaths>
+  <matlabOptimisation>matlab/optimisation</matlabOptimisation>
+  <matlabThesisResults>matlab/thesis</matlabThesisResults>
+  <measurementResults>measurements</measurementResults>
+  <results>results</results>
+  <windowsProjects>vstudio</windowsProjects>
+</directories>

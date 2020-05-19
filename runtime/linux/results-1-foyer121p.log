@@ -1,0 +1,2049 @@
+Working directory is defined as: /home/ekenny/eclipse/stiwro-c++/runtime/linux
+Developed in Informatic 2000 Programme Project: STIWRO
+COPYRIGHT (c) 2001-2003 by Trinity College Dublin, Dublin 2, IRELAND.
+All rights reserved
+/home/ekenny/eclipse/stiwro-c++/runtime/linux/../buildings/foyer
+/home/ekenny/eclipse/stiwro-c++/runtime/linux/../buildings/foyer
+/home/ekenny/eclipse/stiwro-c++/runtime/linux/../buildings/foyer
+File: /home/ekenny/eclipse/stiwro-c++/runtime/linux/../buildings/foyer.sav exists.
+read total convexs: 7
+File: /home/ekenny/eclipse/stiwro-c++/runtime/linux/../buildings/foyer.dat exists.
+Total Convexes remained the same, read from saved file
+read total convexs: 7
+BTS full directory: /home/ekenny/eclipse/stiwro-c++/runtime/linux/../bts/bts2000foyer.dat
+CBaseTransceiver filename (read): /home/ekenny/eclipse/stiwro-c++/runtime/linux/../bts/bts2000foyer.dat
+location 5 7 2.5
+power  Noise Factor (dBm):    7
+  Noise Factor (mW):    5.01187
+  Noise Factor (dBm):    5
+  Noise Factor (mW):    3.16228
+Name: omni
+Maximum Gain: 1
+Num Vertical: 36
+Num Horizontal: 36
+Total points in diagram: 1296
+total number points in capacity grid: 121
+N=        4
+Building bounding box is: 
+ 0.5 0.5 0.2
+ 30.5 20.5 3.2
+---------- beginning split ----------
+centre:  15.5 9.39284 2.5
+xsplit gives: 3
+ysplit gives: 3
+Horizontal Split 1
+capacity of item( 2): 4.487
+---------- beginning split ----------
+centre:  15.5 5.36578 2.5
+xsplit gives: 2
+ysplit gives: 2
+Vertical Split 2
+capacity of item( 2): 2.5238
+centre:  15.5 14.5699 2.5
+capacity of item( 3): 1.9632
+---------- beginning split ----------
+centre:  5.54034 5.38351 2.5
+capacity of item( 1): 1.2314
+centre:  24.9896 5.34889 2.5
+capacity of item( 2): 1.2924
+centre:  15.5 14.5699 2.5
+capacity of item( 3): 1.9632
+Number Of Cells:        3
+Actual number required: 3
+Ray-tracing Starting
+Calculating reflection:     0 of  121   0 of  121   0.75 0.75 2.5
+ 100 of  121   3.7 18.3 2.5
+
+Ray-tracing Ending
+Time for ray-trace: 0.012793seconds
+
+Ray-tracing Starting
+Calculating reflection:     0 of  121   0 of  121   0.75 0.75 2.5
+ 100 of  121   3.7 18.3 2.5
+
+Ray-tracing Ending
+Time for ray-trace: 0.012178seconds
+
+Ray-tracing Starting
+Calculating reflection:     0 of  121   0 of  121   0.75 0.75 2.5
+ 100 of  121   3.7 18.3 2.5
+
+Ray-tracing Ending
+Time for ray-trace: 0.011964seconds
+
+---------------- Starting round 1 ------------------
+ f(x)    iteration location[0]: 106 / 121 met target SIR 
+gradient: 3
+calculate gradient at 9 points
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+Vsd : 8.01063e-14
+V:   0:0 1:0 2:0 3:8.01063e-14 4:0 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  107 / 121 met target SIR 
+return because improved: 107 / 121
+gradient: 1.31437e-13
+calculate gradient at 9 points
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+Vsd : 7.89544e-15
+V:   0:0 1:0 2:0 3:0 4:7.89544e-15 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  104 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+gradient: 1.27275e-14
+calculate gradient at 9 points
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+Vsd : 8.13024e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:8.13024e-15 7:0 8:0
+  iteration f(x+d) gives:  99 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 100 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+gradient: 1.00738e-14
+calculate gradient at 9 points
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+105 / 121 met target SIR 
+Vsd : 9.25822e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:-9.25822e-15
+  iteration f(x+d) gives:  109 / 121 met target SIR 
+return because improved: 109 / 121
+gradient: 1.49004e-14
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 5.20691e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:-5.20691e-15 7:0 8:0
+  iteration f(x+d) gives:  101 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 100 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+gradient: 6.09082e-15
+calculate gradient at 9 points
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+Vsd : 1.98911e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:1.98911e-14 8:0
+  iteration f(x+d) gives:  110 / 121 met target SIR 
+return because improved: 110 / 121
+gradient: 2.4129e-14
+calculate gradient at 9 points
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+111 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.85284e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:1.85284e-14
+  iteration f(x+d) gives:  110 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+gradient: 2.12605e-14
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 9.60335e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-9.60335e-15 8:0
+  iteration f(x+d) gives:  97 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+gradient: 1.1753e-14
+calculate gradient at 9 points
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+108 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+Vsd : 6.01382e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:6.01382e-15
+  iteration f(x+d) gives:  106 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+gradient: 9.74402e-15
+calculate gradient at 9 points
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+105 / 121 met target SIR 
+Vsd : 1.04552e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-1.04552e-14 8:0
+  iteration f(x+d) gives:  88 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+gradient: 1.16285e-14
+calculate gradient at 9 points
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+106 / 121 met target SIR 
+Vsd : 2.73729e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:-2.73729e-14
+  iteration f(x+d) gives:  108 / 121 met target SIR 
+return because improved: 108 / 121
+gradient: 3.90573e-14
+calculate gradient at 9 points
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+Vsd : 5.1387e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:-5.1387e-15 7:0 8:0
+  iteration f(x+d) gives:  98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 103 / 121 met target SIR 
+  looping over f(x+d) calculated: 103 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+gradient: 7.37651e-15
+calculate gradient at 9 points
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+106 / 121 met target SIR 
+105 / 121 met target SIR 
+106 / 121 met target SIR 
+Vsd : 5.91215e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:-5.91215e-14 7:0 8:0
+  iteration f(x+d) gives:  98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 102 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+return because improved: 107 / 121
+gradient: 5.94341e-14
+calculate gradient at 9 points
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+108 / 121 met target SIR 
+107 / 121 met target SIR 
+Vsd : 2.13792e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:2.13792e-14 7:0 8:0
+  iteration f(x+d) gives:  97 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 100 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+return because improved: 110 / 121
+gradient: 2.32462e-14
+calculate gradient at 9 points
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+Vsd : 6.49364e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:-6.49364e-15 7:0 8:0
+  iteration f(x+d) gives:  98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+gradient: 9.07535e-15
+calculate gradient at 9 points
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+Vsd : 5.13921e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:-5.13921e-15 7:0 8:0
+  iteration f(x+d) gives:  98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 103 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+gradient: 8.15692e-15
+calculate gradient at 9 points
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+105 / 121 met target SIR 
+106 / 121 met target SIR 
+Vsd : 1.86671e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-1.86671e-14 8:0
+  iteration f(x+d) gives:  89 / 121 met target SIR 
+  looping over f(x+d) calculated: 101 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+returned since looping too much
+gradient: 1.91708e-14
+calculate gradient at 9 points
+105 / 121 met target SIR 
+105 / 121 met target SIR 
+105 / 121 met target SIR 
+105 / 121 met target SIR 
+105 / 121 met target SIR 
+105 / 121 met target SIR 
+105 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+Vsd : 1.17522e-12
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:1.17522e-12 8:0
+  iteration f(x+d) gives:  109 / 121 met target SIR 
+return because improved: 109 / 121
+gradient: 2.03329e-12
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+Vsd : 1.1008e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-1.1008e-14 8:0
+  iteration f(x+d) gives:  93 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+gradient: 1.54968e-14
+calculate gradient at 9 points
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+Vsd : 1.70113e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-1.70113e-13 8:0
+  iteration f(x+d) gives:  91 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+return because improved: 109 / 121
+gradient: 2.21182e-13
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 9.81405e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-9.81405e-15 8:0
+  iteration f(x+d) gives:  92 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+gradient: 1.25015e-14
+calculate gradient at 9 points
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+105 / 121 met target SIR 
+Vsd : 4.51981e-15
+V:   0:0 1:0 2:0 3:-4.51981e-15 4:0 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  76 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+return because improved: 108 / 121
+gradient: 6.69736e-15
+calculate gradient at 9 points
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+107 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+107 / 121 met target SIR 
+108 / 121 met target SIR 
+Vsd : 9.36048e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:9.36048e-14 8:0
+  iteration f(x+d) gives:  109 / 121 met target SIR 
+return because improved: 109 / 121
+gradient: 1.30294e-13
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+107 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.05656e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:1.05656e-13 8:0
+  iteration f(x+d) gives:  108 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+gradient: 1.06604e-13
+calculate gradient at 9 points
+107 / 121 met target SIR 
+108 / 121 met target SIR 
+107 / 121 met target SIR 
+108 / 121 met target SIR 
+107 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+107 / 121 met target SIR 
+Vsd : 2.45715e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-2.45715e-14 8:0
+  iteration f(x+d) gives:  96 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+return because improved: 109 / 121
+gradient: 3.89917e-14
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.16311e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:1.16311e-14
+  iteration f(x+d) gives:  109 / 121 met target SIR 
+gradient: 1.28379e-14
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 9.55403e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-9.55403e-15 8:0
+  iteration f(x+d) gives:  93 / 121 met target SIR 
+  looping over f(x+d) calculated: 102 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+gradient: 1.24736e-14
+calculate gradient at 9 points
+107 / 121 met target SIR 
+105 / 121 met target SIR 
+106 / 121 met target SIR 
+105 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+Vsd : 1.51014e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-1.51014e-13 8:0
+  iteration f(x+d) gives:  89 / 121 met target SIR 
+  looping over f(x+d) calculated: 101 / 121 met target SIR 
+  looping over f(x+d) calculated: 103 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+returned since looping too much
+gradient: 1.88995e-13
+calculate gradient at 9 points
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+105 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+Vsd : 1.77339e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:1.77339e-13 7:0 8:0
+  iteration f(x+d) gives:  100 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 100 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+return because improved: 109 / 121
+gradient: 2.79391e-13
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.57746e-12
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:-1.57746e-12 7:0 8:0
+  iteration f(x+d) gives:  102 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 99 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 101 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+return because improved: 110 / 121
+gradient: 1.57777e-12
+calculate gradient at 9 points
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+108 / 121 met target SIR 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.26207e-13
+V:   0:0 1:0 2:0 3:-1.26207e-13 4:0 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  74 / 121 met target SIR 
+  looping over f(x+d) calculated: 96 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+returned since looping too much
+gradient: 1.26225e-13
+calculate gradient at 9 points
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+Vsd : 2.1126e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:2.1126e-15 7:0 8:0
+  iteration f(x+d) gives:  100 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 100 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 102 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+gradient: 2.396e-15
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 9.63749e-16
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:9.63749e-16 7:0 8:0
+  iteration f(x+d) gives:  99 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 100 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 103 / 121 met target SIR 
+  looping over f(x+d) calculated: 103 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+gradient: 1.54905e-15
+calculate gradient at 9 points
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.99365e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:1.99365e-15 7:0 8:0
+  iteration f(x+d) gives:  99 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 97 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 102 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+gradient: 2.36001e-15
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.00113e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:-1.00113e-14
+  iteration f(x+d) gives:  111 / 121 met target SIR 
+return because improved: 111 / 121
+gradient: 1.41743e-14
+calculate gradient at 9 points
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+Vsd : 1.43613e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-1.43613e-15 8:0
+  iteration f(x+d) gives:  95 / 121 met target SIR 
+  looping over f(x+d) calculated: 103 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+gradient: 2.03672e-15
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+108 / 121 met target SIR 
+Vsd : 1.98396e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:-1.98396e-13
+  iteration f(x+d) gives:  109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+returned since looping too much
+gradient: 1.98416e-13
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+Vsd : 2.22246e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-2.22246e-14 8:0
+  iteration f(x+d) gives:  93 / 121 met target SIR 
+  looping over f(x+d) calculated: 102 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+return because improved: 110 / 121
+gradient: 2.24536e-14
+calculate gradient at 9 points
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+Vsd : 6.50551e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:6.50551e-15
+  iteration f(x+d) gives:  108 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+gradient: 9.57118e-15
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.06368e-15
+V:   0:0 1:-1.06368e-15 2:0 3:0 4:0 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  103 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+gradient: 1.72114e-15
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 7.67182e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-7.67182e-13 8:0
+  iteration f(x+d) gives:  88 / 121 met target SIR 
+  looping over f(x+d) calculated: 98 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+returned since looping too much
+gradient: 7.67183e-13
+calculate gradient at 9 points
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.72408e-12
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:1.72408e-12 7:0 8:0
+  iteration f(x+d) gives:  98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 99 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 102 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 102 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+return because improved: 109 / 121
+gradient: 2.98571e-12
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.36651e-14
+V:   0:0 1:0 2:1.36651e-14 3:0 4:0 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  107 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+returned since looping too much
+gradient: 1.871e-14
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 9.58434e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:-9.58434e-15 7:0 8:0
+  iteration f(x+d) gives:  103 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 99 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 100 / 121 met target SIR 
+  looping over f(x+d) calculated: 105 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+gradient: 1.21449e-14
+calculate gradient at 9 points
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 2.46542e-15
+V:   0:0 1:0 2:-2.46542e-15 3:0 4:0 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+returned since looping too much
+gradient: 2.78743e-15
+calculate gradient at 9 points
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 1.10934e-15
+V:   0:0 1:-1.10934e-15 2:0 3:0 4:0 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  102 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+gradient: 1.61938e-15
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+Vsd : 7.72977e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:-7.72977e-13
+  iteration f(x+d) gives:  109 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+return because improved: 110 / 121
+gradient: 1.06762e-12
+calculate gradient at 9 points
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+Vsd : 8.70619e-15
+V:   0:0 1:0 2:8.70619e-15 3:0 4:0 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  109 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+gradient: 1.09987e-14
+calculate gradient at 9 points
+110 / 121 met target SIR 
+111 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+111 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+Vsd : 1.99368e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:-1.99368e-13
+  iteration f(x+d) gives:  110 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+returned since looping too much
+gradient: 1.9939e-13
+calculate gradient at 9 points
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+111 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+Vsd : 4.78095e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:4.78095e-15 7:0 8:0
+  iteration f(x+d) gives:  98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 100 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 100 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 111 / 121 met target SIR 
+return because improved: 111 / 121
+gradient: 6.18707e-15
+calculate gradient at 9 points
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+110 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+110 / 121 met target SIR 
+Vsd : 1.43568e-14
+V:   0:0 1:0 2:0 3:0 4:1.43568e-14 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  101 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 111 / 121 met target SIR 
+  looping over f(x+d) calculated: 112 / 121 met target SIR 
+met 92.562% of total SIR
+112 / 121
+met 92.562% of total SIR
+112 / 121
+calculating exact number Of constraints: 
+112 / 121 met target SIR 
+Initial value of positions is: 
+  5.54034
+  4.64695
+  2.50658
+  26.6389
+  5.60942
+  2.5
+  16.0638
+  13.3244
+  2.13213
+creating Convex Optimisation constraint matrix
+Target not met at index: 16
+Target not met at index: 92
+Target not met at index: 99
+Target not met at index: 100
+Target not met at index: 108
+Target not met at index: 110
+Target not met at index: 111
+Target not met at index: 119
+Target not met at index: 120
+
+Convex matrix gives: 112 / 121 met target SIR
+printed bestserver 
+Initial value of Powers is: 
+  4.92579e-08
+  4.63761e-08
+  4.63761e-08
+Starting Steepest Descent Convex Optimisation of powers: 
+increasing t: 0.0001
+increasing t: 0.0005
+increasing t: 0.0025
+increasing t: 0.0125
+increasing t: 0.0625
+increasing t: 0.3125
+increasing t: 1.5625
+increasing t: 7.8125
+increasing t: 39.0625
+increasing t: 195.312
+increasing t: 976.562
+increasing t: 4882.81
+increasing t: 24414.1
+increasing t: 122070
+increasing t: 610352
+increasing t: 3.05176e+06
+increasing t: 1.52588e+07
+increasing t: 7.62939e+07
+increasing t: 3.8147e+08
+increasing t: 1.90735e+09
+increasing t: 9.53674e+09
+increasing t: 4.76837e+10
+increasing t: 2.38419e+11
+increasing t: 1.19209e+12
+increasing t: 5.96046e+12
+increasing t: 2.98023e+13
+increasing t: 1.49012e+14
+increasing t: 7.45058e+14
+increasing t: 3.72529e+15
+increasing t: 1.86265e+16
+increasing t: 9.31323e+16
+increasing t: 4.65661e+17
+increasing t: 2.32831e+18
+increasing t: 1.16415e+19
+increasing t: 5.82077e+19
+increasing t: 2.91038e+20
+increasing t: 1.45519e+21
+increasing t: 7.27596e+21
+Stopping Criteria for Convex Optimisation met
+end result:  4.83611e-08
+end result:  4.63761e-08
+end result:  4.63761e-08
+recalculating SIR on whole region to see it hasn't decreased
+112 / 121 met target SIR 
+112 / 121 met target SIR 
+---------------- Starting round 2 ------------------
+ f(x)    iteration location[0]: used gaussian random variable
+mean gauss value: R: 0.0678101 0 
+mean numer value: R: 0.368193 0 
+used gaussian random variable
+mean gauss value: R: 0.021466 0 
+mean numer value: R: 0.0915039 0 
+used gaussian random variable
+mean gauss value: R: 0.0270657 0 
+mean numer value: R: 0.127892 0 
+used gaussian random variable
+mean gauss value: R: 0.0110787 0 
+mean numer value: R: 0.0607345 0 
+108 / 121 met target SIR 
+gradient: 3
+calculate gradient at 9 points
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0110757 0 
+mean numer value: R: 0.0619606 0 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0678101 0 
+mean numer value: R: 0.380322 0 
+used gaussian random variable
+mean gauss value: R: 0.0270657 0 
+mean numer value: R: 0.118692 0 
+used gaussian random variable
+mean gauss value: R: 0.0300107 0 
+mean numer value: R: 0.149723 0 
+used gaussian random variable
+mean gauss value: R: 0.0110787 0 
+mean numer value: R: 0.0604981 0 
+used gaussian random variable
+mean gauss value: R: 0.0156383 0 
+mean numer value: R: 0.0798379 0 
+107 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0105206 0 
+mean numer value: R: 0.0578824 0 
+107 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0131596 0 
+mean numer value: R: 0.0681583 0 
+107 / 121 met target SIR 
+106 / 121 met target SIR 
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0165368 0 
+mean numer value: R: 0.140621 0 
+used gaussian random variable
+mean gauss value: R: 0.0329577 0 
+mean numer value: R: 0.185432 0 
+used gaussian random variable
+mean gauss value: R: 0.0196821 0 
+mean numer value: R: 0.0804832 0 
+107 / 121 met target SIR 
+Vsd : 1.79809e-13
+V:   0:1.79809e-13 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.021466 0 
+mean numer value: R: 0.093274 0 
+75 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.016351 0 
+mean numer value: R: 0.0947283 0 
+94 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0121728 0 
+mean numer value: R: 0.0568871 0 
+101 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: 107 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0271711 0 
+mean numer value: R: 0.206449 0 
+107 / 121 met target SIR 
+gradient: 3.11168e-13
+calculate gradient at 9 points
+107 / 121 met target SIR 
+107 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00728695 0 
+mean numer value: R: 0.098944 0 
+used gaussian random variable
+mean gauss value: R: 0.0128346 0 
+mean numer value: R: 0.0665315 0 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0271711 0 
+mean numer value: R: 0.218391 0 
+106 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0115554 0 
+mean numer value: R: 0.0549965 0 
+107 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0448449 0 
+mean numer value: R: 0.268582 0 
+106 / 121 met target SIR 
+106 / 121 met target SIR 
+107 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0241402 0 
+mean numer value: R: 0.130542 0 
+105 / 121 met target SIR 
+Vsd : 4.35239e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:-4.35239e-13 6:0 7:0 8:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.021466 0 
+mean numer value: R: 0.0906219 0 
+used gaussian random variable
+mean gauss value: R: 0.0271711 0 
+mean numer value: R: 0.218136 0 
+104 / 121 met target SIR 
+  looping over f(x+d) calculated: 106 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0570186 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.216509 0 
+108 / 121 met target SIR 
+return because improved: 108 / 121
+gradient: 4.35393e-13
+calculate gradient at 9 points
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0380468 0 
+mean numer value: R: 0.199918 0 
+used gaussian random variable
+mean gauss value: R: 0.0187971 0 
+mean numer value: R: 0.0774728 0 
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0433264 0 
+mean numer value: R: 0.188039 0 
+108 / 121 met target SIR 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0271711 0 
+mean numer value: R: 0.204579 0 
+used gaussian random variable
+mean gauss value: R: 0.0199767 0 
+mean numer value: R: 0.072072 0 
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0218339 0 
+mean numer value: R: 0.150759 0 
+108 / 121 met target SIR 
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0595241 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.208828 0 
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0158488 0 
+mean numer value: R: 0.0761234 0 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+Vsd : 8.28323e-13
+V:   0:-8.28323e-13 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.021466 0 
+mean numer value: R: 0.0930273 0 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0575595 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.215379 0 
+used gaussian random variable
+mean gauss value: R: 0.0107296 0 
+mean numer value: R: 0.0761899 0 
+107 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0518006 0 
+109 / 121 met target SIR 
+return because improved: 109 / 121
+gradient: 8.28529e-13
+calculate gradient at 9 points
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0120254 0 
+mean numer value: R: 0.072962 0 
+used gaussian random variable
+mean gauss value: R: 0.0109248 0 
+mean numer value: R: 0.0581206 0 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0185405 0 
+mean numer value: R: 0.0867368 0 
+used gaussian random variable
+mean gauss value: R: 0.0140716 0 
+mean numer value: R: 0.0954442 0 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0102333 0 
+mean numer value: R: 0.0537879 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0548636 0 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0602434 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.20734 0 
+109 / 121 met target SIR 
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0165368 0 
+mean numer value: R: 0.143021 0 
+used gaussian random variable
+mean gauss value: R: 0.0329577 0 
+mean numer value: R: 0.189091 0 
+used gaussian random variable
+mean gauss value: R: 0.0196821 0 
+mean numer value: R: 0.0884947 0 
+109 / 121 met target SIR 
+Vsd : 1.34523e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-1.34523e-13 8:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0566034 0 
+used gaussian random variable
+mean gauss value: R: 0.0223773 0 
+mean numer value: R: 0.0960052 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.209285 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0562007 0 
+90 / 121 met target SIR 
+  looping over f(x+d) calculated: 100 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0191219 0 
+mean numer value: R: 0.112473 0 
+106 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0362306 0 
+mean numer value: R: 0.199062 0 
+106 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0200338 0 
+mean numer value: R: 0.0864684 0 
+109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0181465 0 
+mean numer value: R: 0.0684409 0 
+109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+returned since looping too much
+gradient: 1.62397e-13
+calculate gradient at 9 points
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0305273 0 
+mean numer value: R: 0.124519 0 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0560486 0 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0496527 0 
+mean numer value: R: 0.199585 0 
+used gaussian random variable
+mean gauss value: R: 0.0202563 0 
+mean numer value: R: 0.102461 0 
+108 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0111191 0 
+mean numer value: R: 0.0637499 0 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0581756 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.209727 0 
+used gaussian random variable
+mean gauss value: R: 0.0208974 0 
+mean numer value: R: 0.0925292 0 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+109 / 121 met target SIR 
+Vsd : 8.7009e-15
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:-8.7009e-15 7:0 8:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0620213 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.208305 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0546974 0 
+95 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0348059 0 
+mean numer value: R: 0.211595 0 
+98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 99 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0145386 0 
+mean numer value: R: 0.0880421 0 
+105 / 121 met target SIR 
+  looping over f(x+d) calculated: 111 / 121 met target SIR 
+return because improved: 111 / 121
+gradient: 1.4577e-14
+calculate gradient at 9 points
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0156738 0 
+mean numer value: R: 0.0735725 0 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0199767 0 
+mean numer value: R: 0.0782838 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0527342 0 
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0218339 0 
+mean numer value: R: 0.153598 0 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0621749 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.208834 0 
+used gaussian random variable
+mean gauss value: R: 0.0421479 0 
+mean numer value: R: 0.197624 0 
+used gaussian random variable
+mean gauss value: R: 0.0212903 0 
+mean numer value: R: 0.118351 0 
+109 / 121 met target SIR 
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0172583 0 
+mean numer value: R: 0.0745858 0 
+111 / 121 met target SIR 
+Vsd : 1.91821e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:-1.91821e-13 7:0 8:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0623786 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.21123 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0549433 0 
+95 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 98 / 121 met target SIR  capacity exceeded
+  looping over f(x+d) calculated: 99 / 121 met target SIR 
+  looping over f(x+d) calculated: 104 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0190438 0 
+mean numer value: R: 0.0988814 0 
+106 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.020258 0 
+mean numer value: R: 0.0952106 0 
+108 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.017629 0 
+mean numer value: R: 0.107139 0 
+111 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0385624 0 
+mean numer value: R: 0.180225 0 
+used gaussian random variable
+mean gauss value: R: 0.0191979 0 
+mean numer value: R: 0.086579 0 
+111 / 121 met target SIR 
+  looping over f(x+d) calculated: 111 / 121 met target SIR 
+  looping over f(x+d) calculated: 111 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0146214 0 
+mean numer value: R: 0.0833745 0 
+used gaussian random variable
+mean gauss value: R: 0.021022 0 
+mean numer value: R: 0.098363 0 
+used gaussian random variable
+mean gauss value: R: 0.0195969 0 
+mean numer value: R: 0.112811 0 
+110 / 121 met target SIR 
+returned since looping too much
+gradient: 2.66589e-13
+calculate gradient at 9 points
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0120254 0 
+mean numer value: R: 0.0769256 0 
+used gaussian random variable
+mean gauss value: R: 0.0109248 0 
+mean numer value: R: 0.0643825 0 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0185405 0 
+mean numer value: R: 0.0875957 0 
+used gaussian random variable
+mean gauss value: R: 0.0140716 0 
+mean numer value: R: 0.0954959 0 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0102333 0 
+mean numer value: R: 0.0598322 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0558325 0 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0191966 0 
+mean numer value: R: 0.0837429 0 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.059687 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.213753 0 
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0265237 0 
+mean numer value: R: 0.151421 0 
+used gaussian random variable
+mean gauss value: R: 0.0245888 0 
+mean numer value: R: 0.106305 0 
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0180019 0 
+mean numer value: R: 0.0679127 0 
+used gaussian random variable
+mean gauss value: R: 0.0189957 0 
+mean numer value: R: 0.0859788 0 
+used gaussian random variable
+mean gauss value: R: 0.0370493 0 
+mean numer value: R: 0.203305 0 
+110 / 121 met target SIR 
+Vsd : 1.14038e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:1.14038e-13
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0126559 0 
+mean numer value: R: 0.0805543 0 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0622236 0 
+used gaussian random variable
+mean gauss value: R: 0.0184803 0 
+mean numer value: R: 0.0959278 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.209366 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0562323 0 
+108 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0127174 0 
+mean numer value: R: 0.0848004 0 
+111 / 121 met target SIR 
+return because improved: 111 / 121
+gradient: 1.83911e-13
+calculate gradient at 9 points
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0305273 0 
+mean numer value: R: 0.122404 0 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0518117 0 
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0496527 0 
+mean numer value: R: 0.201745 0 
+used gaussian random variable
+mean gauss value: R: 0.0202563 0 
+mean numer value: R: 0.0956402 0 
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0111191 0 
+mean numer value: R: 0.0633573 0 
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0583931 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.212547 0 
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0407948 0 
+mean numer value: R: 0.23093 0 
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0280669 0 
+mean numer value: R: 0.111467 0 
+used gaussian random variable
+mean gauss value: R: 0.0119523 0 
+mean numer value: R: 0.0865431 0 
+110 / 121 met target SIR 
+Vsd : 3.26393e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:-3.26393e-13 8:0
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0540331 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.214536 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0506802 0 
+93 / 121 met target SIR 
+  looping over f(x+d) calculated: 101 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0172622 0 
+mean numer value: R: 0.0902841 0 
+106 / 121 met target SIR 
+  looping over f(x+d) calculated: 108 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0211731 0 
+mean numer value: R: 0.0911985 0 
+109 / 121 met target SIR 
+  looping over f(x+d) calculated: 109 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0466769 0 
+mean numer value: R: 0.263249 0 
+used gaussian random variable
+mean gauss value: R: 0.0281848 0 
+mean numer value: R: 0.235862 0 
+109 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0192219 0 
+mean numer value: R: 0.104913 0 
+110 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0180492 0 
+mean numer value: R: 0.109724 0 
+used gaussian random variable
+mean gauss value: R: 0.028638 0 
+mean numer value: R: 0.121004 0 
+110 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0114325 0 
+mean numer value: R: 0.0848806 0 
+used gaussian random variable
+mean gauss value: R: 0.0329076 0 
+mean numer value: R: 0.187184 0 
+used gaussian random variable
+mean gauss value: R: 0.0120345 0 
+mean numer value: R: 0.0849119 0 
+111 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.011542 0 
+mean numer value: R: 0.0826122 0 
+used gaussian random variable
+mean gauss value: R: 0.0324694 0 
+mean numer value: R: 0.179785 0 
+used gaussian random variable
+mean gauss value: R: 0.0123702 0 
+mean numer value: R: 0.0859805 0 
+111 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0125425 0 
+mean numer value: R: 0.0769152 0 
+111 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0192168 0 
+mean numer value: R: 0.0767518 0 
+used gaussian random variable
+mean gauss value: R: 0.0126296 0 
+mean numer value: R: 0.0883693 0 
+111 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0126734 0 
+mean numer value: R: 0.0871968 0 
+111 / 121 met target SIR 
+returned since looping too much
+gradient: 3.28993e-13
+calculate gradient at 9 points
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0156738 0 
+mean numer value: R: 0.0758893 0 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0199767 0 
+mean numer value: R: 0.0820821 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0550752 0 
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0218339 0 
+mean numer value: R: 0.159434 0 
+111 / 121 met target SIR 
+111 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0627821 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.212649 0 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0113261 0 
+mean numer value: R: 0.101125 0 
+used gaussian random variable
+mean gauss value: R: 0.0229668 0 
+mean numer value: R: 0.0973897 0 
+used gaussian random variable
+mean gauss value: R: 0.0127959 0 
+mean numer value: R: 0.0854627 0 
+112 / 121 met target SIR 
+Vsd : 1.00386e-14
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:1.00386e-14
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0580214 0 
+used gaussian random variable
+mean gauss value: R: 0.028508 0 
+mean numer value: R: 0.268 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.209588 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0583948 0 
+107 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0143322 0 
+mean numer value: R: 0.0855414 0 
+used gaussian random variable
+mean gauss value: R: 0.016634 0 
+mean numer value: R: 0.0875068 0 
+109 / 121 met target SIR 
+  looping over f(x+d) calculated: 110 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0548045 0 
+mean numer value: R: 0.354424 0 
+109 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0121499 0 
+mean numer value: R: 0.078552 0 
+110 / 121 met target SIR 
+  looping over f(x+d) calculated: used gaussian random variable
+mean gauss value: R: 0.0118999 0 
+mean numer value: R: 0.0819582 0 
+110 / 121 met target SIR 
+gradient: 1.32556e-14
+calculate gradient at 9 points
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0120254 0 
+mean numer value: R: 0.081423 0 
+used gaussian random variable
+mean gauss value: R: 0.0109248 0 
+mean numer value: R: 0.0623658 0 
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0185405 0 
+mean numer value: R: 0.0871283 0 
+used gaussian random variable
+mean gauss value: R: 0.0140716 0 
+mean numer value: R: 0.0974941 0 
+110 / 121 met target SIR 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0102333 0 
+mean numer value: R: 0.0563857 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0542589 0 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+110 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0542888 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.211221 0 
+used gaussian random variable
+mean gauss value: R: 0.0328522 0 
+mean numer value: R: 0.137345 0 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0241447 0 
+mean numer value: R: 0.111113 0 
+used gaussian random variable
+mean gauss value: R: 0.015262 0 
+mean numer value: R: 0.0992629 0 
+109 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0124285 0 
+mean numer value: R: 0.100667 0 
+used gaussian random variable
+mean gauss value: R: 0.0591692 0 
+mean numer value: R: 0.348804 0 
+108 / 121 met target SIR 
+Vsd : 1.72812e-13
+V:   0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:-1.72812e-13
+  iteration f(x+d) gives:  used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0609267 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.200928 0 
+used gaussian random variable
+mean gauss value: R: 0.0284776 0 
+mean numer value: R: 0.167898 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.060552 0 
+used gaussian random variable
+mean gauss value: R: 0.0179934 0 
+mean numer value: R: 0.0911625 0 
+112 / 121 met target SIR 
+met 92.562% of total SIR
+112 / 121
+met 92.562% of total SIR
+112 / 121
+calculating exact number Of constraints: 
+used gaussian random variable
+mean gauss value: R: 0.0284776 0 
+mean numer value: R: 0.179514 0 
+used gaussian random variable
+mean gauss value: R: 0.0179934 0 
+mean numer value: R: 0.0942711 0 
+112 / 121 met target SIR 
+Initial value of positions is: 
+  3.51584
+  4.64695
+  2.50658
+  26.6389
+  5.60942
+  2.33333
+  15.2472
+  13.3114
+  1.84888
+creating Convex Optimisation constraint matrix
+Target not met at index: 5
+Target not met at index: 16
+Target not met at index: 27
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0585778 0 
+Target not met at index: 46
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.208223 0 
+used gaussian random variable
+mean gauss value: R: 0.0284776 0 
+mean numer value: R: 0.17186 0 
+Target not met at index: 94
+Target not met at index: 100
+Target not met at index: 108
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0581458 0 
+Target not met at index: 111
+used gaussian random variable
+mean gauss value: R: 0.0179934 0 
+mean numer value: R: 0.0900577 0 
+Target not met at index: 120
+
+Convex matrix gives: 112 / 121 met target SIR
+printed bestserver 
+Initial value of Powers is: 
+  5.08189e-08
+  4.79587e-08
+  4.79587e-08
+Starting Steepest Descent Convex Optimisation of powers: 
+increasing t: 0.0001
+increasing t: 0.0005
+increasing t: 0.0025
+increasing t: 0.0125
+increasing t: 0.0625
+increasing t: 0.3125
+increasing t: 1.5625
+increasing t: 7.8125
+increasing t: 39.0625
+increasing t: 195.312
+increasing t: 976.562
+increasing t: 4882.81
+increasing t: 24414.1
+increasing t: 122070
+increasing t: 610352
+increasing t: 3.05176e+06
+increasing t: 1.52588e+07
+increasing t: 7.62939e+07
+increasing t: 3.8147e+08
+increasing t: 1.90735e+09
+increasing t: 9.53674e+09
+increasing t: 4.76837e+10
+increasing t: 2.38419e+11
+increasing t: 1.19209e+12
+increasing t: 5.96046e+12
+increasing t: 2.98023e+13
+increasing t: 1.49012e+14
+increasing t: 7.45058e+14
+increasing t: 3.72529e+15
+increasing t: 1.86265e+16
+increasing t: 9.31323e+16
+increasing t: 4.65661e+17
+increasing t: 2.32831e+18
+increasing t: 1.16415e+19
+increasing t: 5.82077e+19
+increasing t: 2.91038e+20
+increasing t: 1.45519e+21
+increasing t: 7.27596e+21
+Stopping Criteria for Convex Optimisation met
+end result:  5.08189e-08
+end result:  4.43714e-08
+end result:  4.79587e-08
+recalculating SIR on whole region to see it hasn't decreased
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0600644 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.203901 0 
+used gaussian random variable
+mean gauss value: R: 0.0284776 0 
+mean numer value: R: 0.17958 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0520407 0 
+used gaussian random variable
+mean gauss value: R: 0.0179934 0 
+mean numer value: R: 0.0982615 0 
+112 / 121 met target SIR 
+used gaussian random variable
+mean gauss value: R: 0.0100819 0 
+mean numer value: R: 0.0645664 0 
+used gaussian random variable
+mean gauss value: R: 0.0487566 0 
+mean numer value: R: 0.226038 0 
+used gaussian random variable
+mean gauss value: R: 0.0284776 0 
+mean numer value: R: 0.180659 0 
+used gaussian random variable
+mean gauss value: R: 0.00994615 0 
+mean numer value: R: 0.0560494 0 
+used gaussian random variable
+mean gauss value: R: 0.0179934 0 
+mean numer value: R: 0.0929907 0 
+112 / 121 met target SIR 
+----------------- Ending round 2 -------------------
+Time for full computation: 2078.09seconds
+
+Original centres at gravity centres
+ 3.51584 4.64695 2.50658
+ 26.6389 5.60942 2.33333
+ 15.2472 13.3114 1.84888
+centres are as follows for order 1 Reflection
+5.54034  4.64695  2.50658
+26.6389  5.60942  2.5
+16.0638  13.3244  2.13213
+centres are as follows for order 2 Reflection
+3.51584  4.64695  2.50658
+26.6389  5.60942  2.33333
+15.2472  13.3114  1.84888
+
+real	35m25.703s
+user	34m7.060s
+sys	0m31.032s
